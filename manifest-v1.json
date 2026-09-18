@@ -1,0 +1,2453 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026.09.18.1",
+  "baseUrl": "https://iacovellipeppe.github.io/DndEncounterMaster-Media/",
+  "assets": [
+    {
+      "id": "archivio_castello_naerytar_esterno",
+      "relativeUrl": "assets/archive/archivio_castello_naerytar_esterno.6d56ca5e5287.webp",
+      "sha256": "6d56ca5e528794b62e60f15eb84f6125a217785f9b23aad79ab1e7e93d54ba07",
+      "byteSize": 375246,
+      "mimeType": "image/webp",
+      "width": 1670,
+      "height": 942
+    },
+    {
+      "id": "archivio_paludi_della_morte",
+      "relativeUrl": "assets/archive/archivio_paludi_della_morte.3c088dd368bc.webp",
+      "sha256": "3c088dd368bc211baa000f82dd5f6e0aa509498961244e13faab0a0f6dc1a5e0",
+      "byteSize": 313534,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "archivio_portale_caverne",
+      "relativeUrl": "assets/archive/archivio_portale_caverne.b542f43a1b42.webp",
+      "sha256": "b542f43a1b42bb180efeb2298f89f47d8da4ca5db1cb49f523bb288b41b1dd83",
+      "byteSize": 196464,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "archivio_portale_caverne_video",
+      "relativeUrl": "assets/video/archivio_portale_caverne_video.3c079b2a42c2.mp4",
+      "sha256": "3c079b2a42c26922638cc8f447012817a6f96dc64695cf9f11e102a132a32a63",
+      "byteSize": 3317229,
+      "mimeType": "video/mp4"
+    },
+    {
+      "id": "encounter_theme_blocked_wagon_ambush",
+      "relativeUrl": "assets/encounters/encounter_theme_blocked_wagon_ambush.d1cc428cb6ac.webp",
+      "sha256": "d1cc428cb6acb3af9053856c533718d0fd7f895ac92231477b8ae50fd21b1df0",
+      "byteSize": 61210,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_caravan_camp",
+      "relativeUrl": "assets/encounters/encounter_theme_caravan_camp.0a352d1197d5.webp",
+      "sha256": "0a352d1197d59b87597050f72934f6f98f56f4f4c9edd2ecc527fddab0ea0ad6",
+      "byteSize": 38844,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_caravan_road",
+      "relativeUrl": "assets/encounters/encounter_theme_caravan_road.5c2477ac7010.webp",
+      "sha256": "5c2477ac7010fc64d10a8a0a9d106e511ee1fbbbe4be416d46283911c98c1be5",
+      "byteSize": 44364,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_01_snapjaw_camp",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_01_snapjaw_camp.e31672326f02.webp",
+      "sha256": "e31672326f0290bb5067c4d3103cdfae58b8f2b996de414e3bbca63151327de4",
+      "byteSize": 72838,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_02_swamp_bullywug",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_02_swamp_bullywug.5286b1e56b40.webp",
+      "sha256": "5286b1e56b40480710f135aaa1038a0abe1ec7cc15ad044b2cadd0984cd4b73d",
+      "byteSize": 78096,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_03_swamp_shambling_mound",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_03_swamp_shambling_mound.fa6b16463541.webp",
+      "sha256": "fa6b16463541dbbb758fc7680b0c2b4bd9162ec210d437ae61b38adb4d75a34f",
+      "byteSize": 69412,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_04_swamp_will_o_wisps",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_04_swamp_will_o_wisps.1eed63b3a54e.webp",
+      "sha256": "1eed63b3a54e5fcc0cfd458d9ad0b23b0f794234bdf6598b3ef608ffb655e7d4",
+      "byteSize": 51410,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_05_animal_pen",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_05_animal_pen.e2df2d47f551.webp",
+      "sha256": "e2df2d47f55172532bcbe768f3a9fe35445cc54eb421d6ba83e0afce50ffc616",
+      "byteSize": 96098,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_06_bullywug_huts",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_06_bullywug_huts.b3f180e478aa.webp",
+      "sha256": "b3f180e478aa8e3827aeb61d1f95156adbe3c5c81294cde1fa9e607f098c7ff3",
+      "byteSize": 94062,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_07_moat",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_07_moat.2301856488ef.webp",
+      "sha256": "2301856488ef12a1eebb01496b4c6c4071344697825ddb2ba322656cb1d5946c",
+      "byteSize": 91026,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_08_gatehouse_1a",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_08_gatehouse_1a.a0a722ad7364.webp",
+      "sha256": "a0a722ad73648cc305d489b04cb109668758559de18ab379a809e9dbc8a6951c",
+      "byteSize": 82768,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_09_courtyard_1d",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_09_courtyard_1d.eadd1857c15e.webp",
+      "sha256": "eadd1857c15e84070d9a531eda6be311df94e63905e7d6f5e5edec842f7b1ad6",
+      "byteSize": 63916,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_10_refuse_pit_1e",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_10_refuse_pit_1e.b8d3832e1053.webp",
+      "sha256": "b8d3832e105339306bdb15a75b0ad965a6f70c1405e362228cd054ad439978de",
+      "byteSize": 72014,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_11_stables_1f",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_11_stables_1f.2d6cd1a265d2.webp",
+      "sha256": "2d6cd1a265d282d3e20182a754234b4015fdccc44fe9b8205b30090d6ecbcfc4",
+      "byteSize": 72324,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_12_lower_dormitory_1g",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_12_lower_dormitory_1g.b5f3c9a1b433.webp",
+      "sha256": "b5f3c9a1b4336d5cb240081927c104d1f77a3500cf7e1982ee8944e12f7b1f48",
+      "byteSize": 81854,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_13_chapel_1n",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_13_chapel_1n.f99c80821272.webp",
+      "sha256": "f99c808212729d075642205d7649efaf18efdf134e617f3d506704f16edbfe9a",
+      "byteSize": 59194,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_14_great_hall_1q",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_14_great_hall_1q.726a1340d7b5.webp",
+      "sha256": "726a1340d7b5d374062c160b809539d8b93f1573ec0ae84e4e65268175033eb2",
+      "byteSize": 81478,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_15_upper_gatehouse_2a",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_15_upper_gatehouse_2a.0ca1c83b7a6b.webp",
+      "sha256": "0ca1c83b7a6bfb7c7f5dafe62c245633616b4dbddeb74522d1bf4465b7934680",
+      "byteSize": 77638,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_17_library_2n",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_17_library_2n.44905d060237.webp",
+      "sha256": "44905d060237247cae0e6f3044864cf5f35f618b8b66cfcc1d316565ef687452",
+      "byteSize": 70942,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_18_cultist_chamber_2r",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_18_cultist_chamber_2r.b2befaa8c569.webp",
+      "sha256": "b2befaa8c569731e3dc5bacbfad3e03d465f6c295e0b689a02ba52c4a88aff84",
+      "byteSize": 54468,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_19_dragonwing_chamber_2t",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_19_dragonwing_chamber_2t.de7f25aa34f9.webp",
+      "sha256": "de7f25aa34f908e1c4c5bccaf490315f4b49426bee868cfdecd89aadefd20c6b",
+      "byteSize": 45398,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_20_specter_refuge_3e",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_20_specter_refuge_3e.fed285e1eb9e.webp",
+      "sha256": "fed285e1eb9e379ebd7da28685081e0a3498681be81945ec1de507228e0dc123",
+      "byteSize": 68668,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_21_spider_lair_3h_3j",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_21_spider_lair_3h_3j.8a3f18a89a8c.webp",
+      "sha256": "8a3f18a89a8c6159fcd1bcfe47f8d7dbcdebbbff73dca7b978e0c1e46a307244",
+      "byteSize": 77402,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_22_dragonwing_chamber_3r",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_22_dragonwing_chamber_3r.c4a08e275dc0.webp",
+      "sha256": "c4a08e275dc0210f3e74155bc56f46b42b1929d04b573b50c7661714563641c6",
+      "byteSize": 74564,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_23_observatory_3u",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_23_observatory_3u.12feb9cbbc9c.webp",
+      "sha256": "12feb9cbbc9ccf56ac29141bc420a106a7ed9eee1562f6f4549703b419ccaec1",
+      "byteSize": 83448,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_24_gray_ooze_dungeon_2",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_24_gray_ooze_dungeon_2.4e84e086cb48.webp",
+      "sha256": "4e84e086cb484c884c75e955ee6ef0c049485a73e0478c6196bfc49962f044be",
+      "byteSize": 74442,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_25_wyvern_cave_dungeon_4",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_25_wyvern_cave_dungeon_4.5a02fa254fca.webp",
+      "sha256": "5a02fa254fca0d518299069c83e9939170f17a6d3823517cc6642fc6d144efff",
+      "byteSize": 51960,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_26_frog_lake_dungeon_6_7",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_26_frog_lake_dungeon_6_7.69cfed3cbb99.webp",
+      "sha256": "69cfed3cbb99fb9156449f5080c64b3a6ac24defde916d6576c70e0b89708bc5",
+      "byteSize": 66616,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_27_bullywug_dungeon_8",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_27_bullywug_dungeon_8.919562f5aa05.webp",
+      "sha256": "919562f5aa0555090f3cdd7b09a706046c38ef1793605029919bbd9f73cafe4c",
+      "byteSize": 80942,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ch6_28_frog_shrine_dungeon_11",
+      "relativeUrl": "assets/encounters/encounter_theme_ch6_28_frog_shrine_dungeon_11.9fdb0c3fe1f6.webp",
+      "sha256": "9fdb0c3fe1f63d8654ee6aeeb6b118aa34f4bd920e98cad78c2db01e016f53fb",
+      "byteSize": 96274,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_cultist_duel",
+      "relativeUrl": "assets/encounters/encounter_theme_cultist_duel.4791215427cd.webp",
+      "sha256": "4791215427cd7d09e190053edfa50460bdab50d79d3fc5e239c20026883b680c",
+      "byteSize": 44156,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_generic_dungeon",
+      "relativeUrl": "assets/encounters/encounter_theme_generic_dungeon.679650ed4412.webp",
+      "sha256": "679650ed4412ad170871eaae5b1798578e6e993e2e381c92294aa88d15807b8d",
+      "byteSize": 42994,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_isolated_roadside_inn",
+      "relativeUrl": "assets/encounters/encounter_theme_isolated_roadside_inn.c46cfe6434f1.webp",
+      "sha256": "c46cfe6434f1f9494b0bafeb0a5b625c969f2d4a2953bac19f52fbd05088c646",
+      "byteSize": 42710,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_lizardfolk_swamp",
+      "relativeUrl": "assets/encounters/encounter_theme_lizardfolk_swamp.e8a758648d98.webp",
+      "sha256": "e8a758648d98bb78204bd3f5f527a45a229e1519f0929fa2b0acaa371dce32f5",
+      "byteSize": 65108,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_lizardfolk_warehouse",
+      "relativeUrl": "assets/encounters/encounter_theme_lizardfolk_warehouse.efe0bb346aee.webp",
+      "sha256": "efe0bb346aee816e7ae42102d5c29db6f4fcc0066fb918ff2d0cc3c6de4edada",
+      "byteSize": 67086,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_ogre_hills",
+      "relativeUrl": "assets/encounters/encounter_theme_ogre_hills.356edb1b2a9d.webp",
+      "sha256": "356edb1b2a9d99e328b38e184cea6b82c7ba4947ecbe52f2fe99e0f03a1cf2fc",
+      "byteSize": 45180,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_open_hill_road",
+      "relativeUrl": "assets/encounters/encounter_theme_open_hill_road.801f44768d3a.webp",
+      "sha256": "801f44768d3aad6f22d19658db9d665ee2887edc84d88a400713aabd4b684019",
+      "byteSize": 48342,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_room_07_vivaio_draghi",
+      "relativeUrl": "assets/encounters/encounter_theme_room_07_vivaio_draghi.7f0cf802b819.webp",
+      "sha256": "7f0cf802b81942e6eb1c081de5991276f9786cb42116054abb3526079f535632",
+      "byteSize": 43298,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_room_08_dormitori_coboldi",
+      "relativeUrl": "assets/encounters/encounter_theme_room_08_dormitori_coboldi.1f8ddb2e1905.webp",
+      "sha256": "1f8ddb2e19058bfd211c1ef0ed21166526d6b63f1a56a25644265f81cec1c0a7",
+      "byteSize": 27672,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_room_09_santuario_draghi",
+      "relativeUrl": "assets/encounters/encounter_theme_room_09_santuario_draghi.fde39e257271.webp",
+      "sha256": "fde39e2572716e48c9605bed2743537630fe67c689eba3f5e2562f027d1b6e4c",
+      "byteSize": 48584,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_room_10a_uova_drago_nero",
+      "relativeUrl": "assets/encounters/encounter_theme_room_10a_uova_drago_nero.9c61058163c4.webp",
+      "sha256": "9c61058163c4418d7c75517f708514a6d8868c0ba301f302f6c1304bdbdd12c1",
+      "byteSize": 36296,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_room_10b_nascondiglio_coboldi",
+      "relativeUrl": "assets/encounters/encounter_theme_room_10b_nascondiglio_coboldi.6d04e35ed1cd.webp",
+      "sha256": "6d04e35ed1cd945cdaa204f7b2a57a042af86d151016073f3e8946b4fff74152",
+      "byteSize": 36216,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_room_11_camera_frulam",
+      "relativeUrl": "assets/encounters/encounter_theme_room_11_camera_frulam.bfd343c92c7d.webp",
+      "sha256": "bfd343c92c7d71f100e88d0d41835d674700464ad404212bd2c0ac327928806b",
+      "byteSize": 42108,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_room_12_dormitorio_guardie",
+      "relativeUrl": "assets/encounters/encounter_theme_room_12_dormitorio_guardie.73a62b587811.webp",
+      "sha256": "73a62b587811e6ab6f6b816d1ae2fbd3fcce93253566938867c89aa1448f9a0c",
+      "byteSize": 39042,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_spider_infested_forest",
+      "relativeUrl": "assets/encounters/encounter_theme_spider_infested_forest.d5250da13b71.webp",
+      "sha256": "d5250da13b71a1cee64def3220c08655bfcd61194eafe2eb676488606afedc77",
+      "byteSize": 53192,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "encounter_theme_troll_mountain_trail",
+      "relativeUrl": "assets/encounters/encounter_theme_troll_mountain_trail.a38173ac08b8.webp",
+      "sha256": "a38173ac08b88c1629c84348ebab36423ac02bdcd256bf9d7e8e8efb71993096",
+      "byteSize": 71106,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 180
+    },
+    {
+      "id": "img_enemy_acolyte",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_acolyte.9958346818f5.webp",
+      "sha256": "9958346818f5d0e24739feb120d245032833683b2b09c38c15abfbcd0aa2136e",
+      "byteSize": 275636,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_aldric_sorn",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_aldric_sorn.528ad6a4835b.webp",
+      "sha256": "528ad6a4835b4941b34bf6640229b16b6bb7d3a97f4dc1090670b06784d12f53",
+      "byteSize": 248910,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "img_enemy_attack_drake",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_attack_drake.037b795bfc49.webp",
+      "sha256": "037b795bfc4986dd5254a2a989f0c2d1816887eb595e2b4cf8b043580bcc7378",
+      "byteSize": 207272,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_berserker",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_berserker.8489c9b7e66b.webp",
+      "sha256": "8489c9b7e66becbda7f81aa7cf1b383a29f8f87346955e6d1e98f021134aa2eb",
+      "byteSize": 385230,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_blagothkus",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_blagothkus.14d1d439eaa7.webp",
+      "sha256": "14d1d439eaa705e9d58bcdd2a6d2b3e1fd298b886f6a697a427430fe0e550288",
+      "byteSize": 298040,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_bullywug",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_bullywug.dbbfc10385d1.webp",
+      "sha256": "dbbfc10385d16914252333eba1abea73e66f76b24c20c6bac7f3f573ac44411e",
+      "byteSize": 313490,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_capitano_othelstan",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_capitano_othelstan.f8bcdc447767.webp",
+      "sha256": "f8bcdc447767b35b149602258b6b51f3bba94063b603ba0a3859a7c2a3294b28",
+      "byteSize": 271812,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1535
+    },
+    {
+      "id": "img_enemy_cavaliere",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_cavaliere.4f6571729c24.webp",
+      "sha256": "4f6571729c24038676135994be49560dd131efa0f3b3fa15b072cec4488b1d27",
+      "byteSize": 290394,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_coccodrillo",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_coccodrillo.9f2548642485.webp",
+      "sha256": "9f254864248555a9f2f8f6e680ef12f8ddc88f392155e2f6c93b74721710a838",
+      "byteSize": 394916,
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "img_enemy_coccodrillo_gigante",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_coccodrillo_gigante.522f9221fddc.webp",
+      "sha256": "522f9221fddc39dae6336ee1e3f108ddeb19e1cb9916946116368fa209f8c854",
+      "byteSize": 376634,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_cultist",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_cultist.99234cb2a4e3.webp",
+      "sha256": "99234cb2a4e3a56cc3f60dc4f5a2c30fab79ca7cdec54dbcf3fd57c4d5383caf",
+      "byteSize": 193002,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_cumulo_strisciante",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_cumulo_strisciante.fe664c12c251.webp",
+      "sha256": "fe664c12c251fcfa9880eda2b28dcffdd0f3d78d1ed8165cfcb7290246e92314",
+      "byteSize": 404864,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1535
+    },
+    {
+      "id": "img_enemy_doppelganger",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_doppelganger.837f1028cb98.webp",
+      "sha256": "837f1028cb98d32db48c2b02789be5f167b0787c54f46612e781a3f0e5518b83",
+      "byteSize": 295348,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_drago_bianco_adulto",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_drago_bianco_adulto.08931b79e318.webp",
+      "sha256": "08931b79e318f197e2653199e19e30533c79f1c85e03bdcb4a880f172d775b80",
+      "byteSize": 335922,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_dragola",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_dragola.9e07c6bdfcaa.webp",
+      "sha256": "9e07c6bdfcaac017867dec236f2007e55662322554ea3b1b142cf79acf39e3cd",
+      "byteSize": 269068,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_dragonclaw",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_dragonclaw.13d348479588.webp",
+      "sha256": "13d3484795880b04c7f0d08342774859082a742a7fd1e3890a9f1a292e472f50",
+      "byteSize": 220132,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_dralmorrer_borngray",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_dralmorrer_borngray.7eb842ebf167.webp",
+      "sha256": "7eb842ebf167b5e2d3cef200b9e38eca41ad1b0d576d8c8d8016bd72ec514f75",
+      "byteSize": 343742,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_elariel_nailo",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_elariel_nailo.f67edda47d02.webp",
+      "sha256": "f67edda47d02fdc6f4c6e566d91c05d01bfe07bca6fd85b773773170cb512808",
+      "byteSize": 134658,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "img_enemy_esploratore",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_esploratore.77b46eb3f666.webp",
+      "sha256": "77b46eb3f6661022c2059395c741d5dae1d216d405553561c3cbff3129a59fee",
+      "byteSize": 277832,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_ettercap",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_ettercap.956ccdaedbe8.webp",
+      "sha256": "956ccdaedbe846debeef60b78327d232fd9282a917cdb44f52ffe49740e6b722",
+      "byteSize": 236226,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_frulam_mondath",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_frulam_mondath.148e0e36d8dd.webp",
+      "sha256": "148e0e36d8dda3e57ed15a493838be95270bd51878d3787f265bd2cb7469a486",
+      "byteSize": 219050,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_fuoco_fatuo",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_fuoco_fatuo.b4abc660fef4.webp",
+      "sha256": "b4abc660fef4d224d00dc7d874b62ea0d7487946958591ae7067ec7fffb1c45d",
+      "byteSize": 301098,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_gargoyle",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_gargoyle.e695c9982602.webp",
+      "sha256": "e695c9982602812f53c1adc37de8a42c36e1370855011d2153ef29b88aa7c166",
+      "byteSize": 321690,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_garrik_rulven",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_garrik_rulven.1d1e53e3c312.webp",
+      "sha256": "1d1e53e3c312afa36211c5740c20b8c7138d2f10c235697f76a2770c88c2b962",
+      "byteSize": 278280,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "img_enemy_giant_spider",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_giant_spider.73bc903668d9.webp",
+      "sha256": "73bc903668d9cefd3d6a68311acc281bc62fc30da5fadf56e7e97a7453b5cfb7",
+      "byteSize": 275098,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_gigante_delle_pietre",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_gigante_delle_pietre.054560335de3.webp",
+      "sha256": "054560335de3e6ecffe71c369dffa7076ac5bf60051d54f5b3dccbfeb35032d4",
+      "byteSize": 397168,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_golem_di_pietra",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_golem_di_pietra.50dba3f43fef.webp",
+      "sha256": "50dba3f43fef540e56b5d90cb87ff0824580d0a52cd22a266ac67f278252c06f",
+      "byteSize": 384086,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_guard",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_guard.a94a7a34d042.webp",
+      "sha256": "a94a7a34d04293b59d9e3bc95ffc7c50a94a2573d331458166a2e397d173a201",
+      "byteSize": 292732,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_guard_drake",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_guard_drake.6113f07abcbb.webp",
+      "sha256": "6113f07abcbbfde99b509bf85418a729b24ba7c2cc1c1e387d922a3efb440db8",
+      "byteSize": 262364,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_hobgoblin",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_hobgoblin.33e2f3ef017f.webp",
+      "sha256": "33e2f3ef017f1e5a643fb2e6efe3da2d4a19ff7f9b5ae12a9f19e175596c6b32",
+      "byteSize": 379152,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_hobgoblin_capitano",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_hobgoblin_capitano.ffd12f760f6e.webp",
+      "sha256": "ffd12f760f6eb03abc60bf5ce856e86c8c3c4f3c5a8b4d3812fe32889bbf4d46",
+      "byteSize": 271164,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_kaelen_dathar",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_kaelen_dathar.b69cc80c44d1.webp",
+      "sha256": "b69cc80c44d150b1139c6a7dc42362e6dfa6b4e46d0b1c05e561d146152a278c",
+      "byteSize": 184300,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "img_enemy_kobold",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_kobold.fb61f08ba262.webp",
+      "sha256": "fb61f08ba26293efde098848971fe65e99c40301cd69789ec2e7e28cb144a8ba",
+      "byteSize": 227376,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_langdedrosa_cyanwrath",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_langdedrosa_cyanwrath.15d50773d573.webp",
+      "sha256": "15d50773d5730ce5fae3e99572a8d2e145c0126966982ab4a545e67a02099b9f",
+      "byteSize": 216940,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_lucertola_gigante",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_lucertola_gigante.6da19f2d9411.webp",
+      "sha256": "6da19f2d94111409a2a409b2636b30c5834877b34d4dbf23f69fedeea93da425",
+      "byteSize": 362330,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_lucertoloide",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_lucertoloide.76b75cb88685.webp",
+      "sha256": "76b75cb88685c639add388cad27323db1b866f3a6b7a6ee4bc3d52ed2719fbf2",
+      "byteSize": 332650,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_lucertoloide_sciamano",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_lucertoloide_sciamano.75eaca647b59.webp",
+      "sha256": "75eaca647b595b24aa08a26537c38e95a9ffc174ff49d44dc970ccf6c95dcf4c",
+      "byteSize": 322648,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_mago",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_mago.e572e991cfa6.webp",
+      "sha256": "e572e991cfa6f1aed0132167ceeb9d335739740b871754f2ea0a3625cfd3327d",
+      "byteSize": 233334,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_melma_grigia",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_melma_grigia.28b7a631657b.webp",
+      "sha256": "28b7a631657b236740fbf740992a1d8ce5966f9a2a930ecff4d13dc9ac052082",
+      "byteSize": 333038,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_millepiedi_gigante",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_millepiedi_gigante.cf3c820d60f7.webp",
+      "sha256": "cf3c820d60f76139e7bcc0356f3398f2e443628553348e2275c32a0753d35c24",
+      "byteSize": 344562,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_nobile",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_nobile.999d2d16ea97.webp",
+      "sha256": "999d2d16ea97735c74f2016bf30b3bb05207b2b7e26479c1db168f4644a86d51",
+      "byteSize": 181726,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_ogre",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_ogre.69371704cca1.webp",
+      "sha256": "69371704cca169e139313eb0f7b29a63fb4fd578bdfe121b5383194036783ed8",
+      "byteSize": 338200,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_orrore_corazzato",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_orrore_corazzato.815753e6e5fe.webp",
+      "sha256": "815753e6e5fefd9bfb870648c31219bf6ab27075843eb44826604d00d26cc951",
+      "byteSize": 333706,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_otyugh",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_otyugh.db5453e735e8.webp",
+      "sha256": "db5453e735e8dd6722851b2b09afa8850fbbae821c2bb30e22571ef3dc8573a2",
+      "byteSize": 320448,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_peryton",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_peryton.8ecafb07839f.webp",
+      "sha256": "8ecafb07839fb2843379344530485cab28968cf3027476d116b8fb11d26c7600",
+      "byteSize": 325680,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_pharblex_spattergoo",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_pharblex_spattergoo.9b421f975052.webp",
+      "sha256": "9b421f97505266cd182a9f67bcfb609dc2116d4192b6d91efc70220f2d28ac62",
+      "byteSize": 301558,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_rana_gigante",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_rana_gigante.d7f112dcc2ad.webp",
+      "sha256": "d7f112dcc2ad0bd4ec986d1b9969dc492fe06369df9e47b7a2a0766ecd87cc54",
+      "byteSize": 438950,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_rath_modar",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_rath_modar.a41c1b754ddf.webp",
+      "sha256": "a41c1b754ddfc0293b55bcc1d40742e8444334e6649d7a06923eb8da3786cd4f",
+      "byteSize": 305356,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_rezmir",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_rezmir.1e156851f5a2.webp",
+      "sha256": "1e156851f5a2cb6cfe44305e62743d687766483730950286d02e890484db1d98",
+      "byteSize": 229478,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_roderic_thann",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_roderic_thann.6755e1c9f059.webp",
+      "sha256": "6755e1c9f0598381307978bde6cd4966f3d972275e967ecf3ff153d156e0d6ba",
+      "byteSize": 226704,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "img_enemy_roper",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_roper.4c0c27ae6430.webp",
+      "sha256": "4c0c27ae64309d7b92c563707790ca2182c6c65fbbcca9fc0c7bfe2a54292c02",
+      "byteSize": 247188,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_rospo_gigante",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_rospo_gigante.d83a730753a9.webp",
+      "sha256": "d83a730753a90ee95cf6240d9f877ec3cef831658d29baa789de73cc6b5e2fcc",
+      "byteSize": 316914,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_sciame_di_millepiedi",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_sciame_di_millepiedi.06228003a636.webp",
+      "sha256": "06228003a636e47543a29b1125b67572e23d25406987e7297813c4e9b9a24067",
+      "byteSize": 465796,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_siren_ilvastarr",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_siren_ilvastarr.fa04ea45fc5f.webp",
+      "sha256": "fa04ea45fc5f45151eed15fbd5c662322bd61611e7b2274a1d36ac19ca44274a",
+      "byteSize": 180964,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "img_enemy_spettro",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_spettro.1ce08226c815.webp",
+      "sha256": "1ce08226c815a4fede7eb4c995de583269709ecd5c0ecc9858351cddd5086a94",
+      "byteSize": 320544,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_stirge",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_stirge.7330f516d302.webp",
+      "sha256": "7330f516d30284a89c1d5f1357e2e460fc2c931a8452df5cc41211dd8805d1c6",
+      "byteSize": 281126,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_talis_la_bianca",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_talis_la_bianca.9da4d1f3b315.webp",
+      "sha256": "9da4d1f3b315b5839d60b69c4c3b940807a8d0511777cdbc2418527e41add9df",
+      "byteSize": 282538,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_troglodyte",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_troglodyte.b3f76c3b6d83.webp",
+      "sha256": "b3f76c3b6d83ad9f2b09ed5840ee9893a3f99f8b115050c3cdf0936b938da88f",
+      "byteSize": 240996,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_enemy_troll",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_troll.5057ecd81d5d.webp",
+      "sha256": "5057ecd81d5dd8ed4bed6848c369bf9828203694207f2e6995b0ffd1bc911500",
+      "byteSize": 498842,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_troll_severed_arm",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_troll_severed_arm.d80528062abd.png",
+      "sha256": "d80528062abda877e676677680b91a661a54f01200d0167a28bb2fe3b9f2146b",
+      "byteSize": 1432821,
+      "mimeType": "image/png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "img_enemy_troll_severed_head",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_troll_severed_head.1b0c26b80373.png",
+      "sha256": "1b0c26b80373f61884b213547ea463b29f2d2d7c2c2ffd9e10cc26c9efdfbc3f",
+      "byteSize": 1484875,
+      "mimeType": "image/png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "img_enemy_troll_severed_leg",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_troll_severed_leg.6542b03d0806.png",
+      "sha256": "6542b03d08065cccd151262e10fc01e70e3d2c77f111e3e55f4d7b6732e06fd6",
+      "byteSize": 1487418,
+      "mimeType": "image/png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "img_enemy_vermeiena",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_vermeiena.464bdcb3ee49.webp",
+      "sha256": "464bdcb3ee49e56000ca5d60099898fe41814cc86b5369b1e79bf28f2a179851",
+      "byteSize": 264722,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_veyra_amcathra",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_veyra_amcathra.50bc121b52ed.webp",
+      "sha256": "50bc121b52ede306b1b4ba52eb2d6a5e6bf231bd239985976186a8066cffe0ff",
+      "byteSize": 217552,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "img_enemy_viverna",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_viverna.ffbee84e71b4.webp",
+      "sha256": "ffbee84e71b40b891368795da3cbee30b3af7129d2e6ac8c0c0401732e09de71",
+      "byteSize": 226506,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_winged_kobold",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_winged_kobold.d87a433d0835.webp",
+      "sha256": "d87a433d0835291bff47daf8b72829e103e6c33b27bff4c7daeafb1bf1c803ce",
+      "byteSize": 193832,
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "img_enemy_yuan_ti_nefasto",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_yuan_ti_nefasto.8c0d968fd794.webp",
+      "sha256": "8c0d968fd79413892549de3b57b93ac68e80f5d0bc22318d06e0d3c59b6c7def",
+      "byteSize": 369670,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_enemy_yuan_ti_sanguepuro",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_yuan_ti_sanguepuro.63e2882045c3.webp",
+      "sha256": "63e2882045c381521412e1fef990ecb2c41b384bc48c35be0e3e838638b9899b",
+      "byteSize": 279992,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_location_baldurs_gate",
+      "relativeUrl": "assets/archive/img_location_baldurs_gate.23ad7608656d.webp",
+      "sha256": "23ad7608656daa802c31d9957cf174736cac0ea023817c9c4fd0e3f6693c10c9",
+      "byteSize": 333088,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "img_location_black_antlers",
+      "relativeUrl": "assets/archive/img_location_black_antlers.45e0936abfe6.webp",
+      "sha256": "45e0936abfe67cacf4b0605af88c8d6181e6d649e3f16081d0c355486b7bf56e",
+      "byteSize": 466772,
+      "mimeType": "image/webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "img_location_black_antlers_manifesto",
+      "relativeUrl": "assets/archive/img_location_black_antlers_manifesto.7a9564ad906b.webp",
+      "sha256": "7a9564ad906b67f72f30d6f32f1704e0310e714eb0ed490a500f68a12f50ec56",
+      "byteSize": 704326,
+      "mimeType": "image/webp",
+      "width": 1055,
+      "height": 1491
+    },
+    {
+      "id": "img_location_carnath",
+      "relativeUrl": "assets/archive/img_location_carnath.3c52196583d7.webp",
+      "sha256": "3c52196583d78bc4027ad637dcb0630cd0ab05762f5f84d0a536c84098750afb",
+      "byteSize": 431794,
+      "mimeType": "image/webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "img_location_dragon_hatchery",
+      "relativeUrl": "assets/archive/img_location_dragon_hatchery.3747200d04ff.webp",
+      "sha256": "3747200d04ff4b4c6df6f1d8f54c66c5006d24b7aede98c54357d708d8f4047d",
+      "byteSize": 381096,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "img_location_elturel",
+      "relativeUrl": "assets/archive/img_location_elturel.3c0bfc71dd4a.webp",
+      "sha256": "3c0bfc71dd4a812caa088938e226151687a5c6e96bc166b11c0e2e888fbe1666",
+      "byteSize": 465142,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "img_location_greenest",
+      "relativeUrl": "assets/archive/img_location_greenest.cfeb79281a9a.webp",
+      "sha256": "cfeb79281a9a9221efdd0090f39e83b579dea7f3d7ff34e446a90cfbf5f36b90",
+      "byteSize": 228838,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "img_location_raider_camp",
+      "relativeUrl": "assets/archive/img_location_raider_camp.4a60ff552b34.webp",
+      "sha256": "4a60ff552b34c3313a52180a2760332e75160868575d9807439c2e7ba0ef041d",
+      "byteSize": 472086,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "img_location_waterdeep",
+      "relativeUrl": "assets/archive/img_location_waterdeep.0fd8c3c0efcb.webp",
+      "sha256": "0fd8c3c0efcb14f0ad15695dd787c7b7d580c266788d6138c3d3d192cda094d9",
+      "byteSize": 504132,
+      "mimeType": "image/webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "img_npc_achreny_ulyeltin",
+      "relativeUrl": "assets/npcs/img_npc_achreny_ulyeltin.b3d5ea7b308b.webp",
+      "sha256": "b3d5ea7b308b799aa72a9360e04642bb9991e4fc55ce0fa980097ae9be52463e",
+      "byteSize": 319680,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_ackyn_selebon",
+      "relativeUrl": "assets/npcs/img_npc_ackyn_selebon.a24e183b642f.webp",
+      "sha256": "a24e183b642ff4347d5adaad96ba6f7cf0ac9917f9e5720b6f5dfaaa1cf5632d",
+      "byteSize": 238106,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_aerendil",
+      "relativeUrl": "assets/npcs/img_npc_aerendil.972268eb54b4.webp",
+      "sha256": "972268eb54b423d36487d79c0e2c92dc97d2863559409375a1079ee4a49abf49",
+      "byteSize": 284294,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_aldor_urnpoleshurst",
+      "relativeUrl": "assets/npcs/img_npc_aldor_urnpoleshurst.4b82824b1e8e.webp",
+      "sha256": "4b82824b1e8e2a53fb9a78cbec2f66d9ba19905f9df48696b777c5001475e1a6",
+      "byteSize": 211950,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_ardred_briferhew",
+      "relativeUrl": "assets/npcs/img_npc_ardred_briferhew.839a049fcd93.webp",
+      "sha256": "839a049fcd934b3a2d301c4f6751b6409abb2c5e58e61546a78863490251de8f",
+      "byteSize": 348458,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_npc_azbara_jos",
+      "relativeUrl": "assets/npcs/img_npc_azbara_jos.557766a3308f.webp",
+      "sha256": "557766a3308fd217198aecef563fa1926215e31296c5ab5dd790440194b9f1ba",
+      "byteSize": 316870,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_beyd_sechepol",
+      "relativeUrl": "assets/npcs/img_npc_beyd_sechepol.9c2eb89fa383.webp",
+      "sha256": "9c2eb89fa383956fe51e00ee1854870758cff3cc800bc3bc5c1406b300735b86",
+      "byteSize": 340386,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_bog_luck",
+      "relativeUrl": "assets/npcs/img_npc_bog_luck.3d3bf20c9149.webp",
+      "sha256": "3d3bf20c914960bfc18e67c6d5120b4dccc58e8fbc246634727fc59d5b528439",
+      "byteSize": 352770,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_npc_bruce",
+      "relativeUrl": "assets/npcs/img_npc_bruce.d1518384519d.webp",
+      "sha256": "d1518384519d48c616e9b145f69ac5845ca8037d9a014188ebf18871e8f506b1",
+      "byteSize": 227350,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_edhelri_lewel",
+      "relativeUrl": "assets/npcs/img_npc_edhelri_lewel.4afd5ab2bc37.webp",
+      "sha256": "4afd5ab2bc3739cfd4fd40428bf048926b5139abfb2dcd775d318008863abff7",
+      "byteSize": 342924,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_npc_eldkin_agetul",
+      "relativeUrl": "assets/npcs/img_npc_eldkin_agetul.f15d100a22bb.webp",
+      "sha256": "f15d100a22bba531d8acbdee31b7ca5bf9aea337e1d4526448efbe8dad83ef4b",
+      "byteSize": 329640,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_enom_tobun",
+      "relativeUrl": "assets/npcs/img_npc_enom_tobun.6544bcd8c5d7.webp",
+      "sha256": "6544bcd8c5d7d2316249f62012799e39fad3dd94cbf27682aac414d2658822c5",
+      "byteSize": 258316,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_escobert",
+      "relativeUrl": "assets/npcs/img_npc_escobert.19e586b5d792.webp",
+      "sha256": "19e586b5d7920c1390298247d21b8afbe9bf7aa9797c69ab214c7ec0af4df556",
+      "byteSize": 271460,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_governor_nighthill",
+      "relativeUrl": "assets/npcs/img_npc_governor_nighthill.7f26c99fad54.webp",
+      "sha256": "7f26c99fad543f9252f0471f651bf91f7e6a33fb9afc41135d802108069fa3d2",
+      "byteSize": 209150,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_imsa_the_green",
+      "relativeUrl": "assets/npcs/img_npc_imsa_the_green.0c930de36740.webp",
+      "sha256": "0c930de36740d3bc62f9276a0927478eeb25b9a7fd5df48c14240f26dad252c5",
+      "byteSize": 282488,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_jamna_gleamsilver",
+      "relativeUrl": "assets/npcs/img_npc_jamna_gleamsilver.d4df91ff8cf0.webp",
+      "sha256": "d4df91ff8cf0eb8ee0ae5b3bba9b24b05091138e0b85e9c8620bfb84ca6e0866",
+      "byteSize": 255946,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_lai_angesstun",
+      "relativeUrl": "assets/npcs/img_npc_lai_angesstun.829aa0410b89.webp",
+      "sha256": "829aa0410b890c374f114b99d9f45383717243ec263fa34320078f8898995de3",
+      "byteSize": 248208,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_larion_keenblade",
+      "relativeUrl": "assets/npcs/img_npc_larion_keenblade.cf3d9414d8a6.webp",
+      "sha256": "cf3d9414d8a6a4d125e48a95b6836f7e728a9ede221248c71d9214f3ba60e123",
+      "byteSize": 207124,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_npc_lasfelro_the_silent",
+      "relativeUrl": "assets/npcs/img_npc_lasfelro_the_silent.9f24cbea1bd6.webp",
+      "sha256": "9f24cbea1bd699aaf75094338e7e63c5cb03f8ad4f68978ff7dbc4734bd5c0a2",
+      "byteSize": 335072,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_leda_widris",
+      "relativeUrl": "assets/npcs/img_npc_leda_widris.730cc9fc3b99.webp",
+      "sha256": "730cc9fc3b99229d099f5f9b7cda9332c3fa5e041e275659d5209d3a24f42003",
+      "byteSize": 280100,
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "img_npc_leosin",
+      "relativeUrl": "assets/npcs/img_npc_leosin.c7351ae8930f.webp",
+      "sha256": "c7351ae8930fddacd44add42fbcf2626d1fcc006f9da71e3fecf5d53061a5078",
+      "byteSize": 281414,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_losvius_longnose",
+      "relativeUrl": "assets/npcs/img_npc_losvius_longnose.f79289bbc3a9.webp",
+      "sha256": "f79289bbc3a9015967bc482d9233cfc6ae90e6bd9dbf89b759ba5086e4cea77a",
+      "byteSize": 376186,
+      "mimeType": "image/webp",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "img_npc_noohar_serelim",
+      "relativeUrl": "assets/npcs/img_npc_noohar_serelim.913a6d3f443d.webp",
+      "sha256": "913a6d3f443d73ca4a13a426230db86bf8335fdfc56e19709952e1ba3033cc36",
+      "byteSize": 289572,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_nyerhite_verther",
+      "relativeUrl": "assets/npcs/img_npc_nyerhite_verther.b5cc012c4178.webp",
+      "sha256": "b5cc012c4178bd0b1c4d9c7a9c07ca56933713343578260fef142c036cd51797",
+      "byteSize": 352020,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_ontharr_frume",
+      "relativeUrl": "assets/npcs/img_npc_ontharr_frume.200cb74131e6.webp",
+      "sha256": "200cb74131e6dc33cf167b48d33400991caa099418420986c90261991de33674",
+      "byteSize": 221638,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_orvustia_esseren",
+      "relativeUrl": "assets/npcs/img_npc_orvustia_esseren.a3e612e30a1d.webp",
+      "sha256": "a3e612e30a1d6eedff784fd7eca22d87986b7af88859cf2478119477e3c382be",
+      "byteSize": 195204,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_oyn_evenmor",
+      "relativeUrl": "assets/npcs/img_npc_oyn_evenmor.caa7014e8ad2.webp",
+      "sha256": "caa7014e8ad2671a4cfae67c9cf772d638ff6253925c9c0cb32ca54dea3ea84f",
+      "byteSize": 313956,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_pete_carnedura",
+      "relativeUrl": "assets/npcs/img_npc_pete_carnedura.df3aa6985acf.webp",
+      "sha256": "df3aa6985acfc9ead49029a72696f5283c4eddda69468e7ef306b1aea1229c26",
+      "byteSize": 318660,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_npc_radecere_perethun",
+      "relativeUrl": "assets/npcs/img_npc_radecere_perethun.61153f82f869.webp",
+      "sha256": "61153f82f869917bd662519aa4c08a6f427e04c8ce33cdd721674d5badc53617",
+      "byteSize": 242716,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_samardag_the_hoper",
+      "relativeUrl": "assets/npcs/img_npc_samardag_the_hoper.a1860d57cb80.webp",
+      "sha256": "a1860d57cb802e2b70557a0a43b95abcde5ca75f4fc16464198fffcf37a59f31",
+      "byteSize": 357412,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_selvek_serelim",
+      "relativeUrl": "assets/npcs/img_npc_selvek_serelim.913a6d3f443d.webp",
+      "sha256": "913a6d3f443d73ca4a13a426230db86bf8335fdfc56e19709952e1ba3033cc36",
+      "byteSize": 289572,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_sulesdeg_the_pole",
+      "relativeUrl": "assets/npcs/img_npc_sulesdeg_the_pole.9838cd86dbaa.webp",
+      "sha256": "9838cd86dbaa511437fb529001e3eb91edcdbe9d3c8bf418bb7b6cbd0ad48d0d",
+      "byteSize": 309270,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_tordek",
+      "relativeUrl": "assets/npcs/img_npc_tordek.2cda169e6c85.webp",
+      "sha256": "2cda169e6c8551d177f36afee3b8d8bd56d50085f253559f0799b0d74e6ac7c3",
+      "byteSize": 249854,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_tyjit_skesh",
+      "relativeUrl": "assets/npcs/img_npc_tyjit_skesh.8eb478ee9144.webp",
+      "sha256": "8eb478ee9144e9781c72f20b8bdc974acd715041dac7f34043e984e0d82c6073",
+      "byteSize": 330350,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_werond_torohar",
+      "relativeUrl": "assets/npcs/img_npc_werond_torohar.41bd8cf6b7cf.webp",
+      "sha256": "41bd8cf6b7cf0f32c10e33ee069905c3ab347829cce0d010d4065fac21e5bdbe",
+      "byteSize": 233262,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_npc_wump",
+      "relativeUrl": "assets/npcs/img_npc_wump.d711cb7798bc.webp",
+      "sha256": "d711cb7798bcbe49e8ae2ffcb20d16949ae9868129308e1dc19df9435b2daead",
+      "byteSize": 251360,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "img_player_asdrubale_losurdos",
+      "relativeUrl": "assets/players/img_player_asdrubale_losurdos.c87416c301a6.webp",
+      "sha256": "c87416c301a6ddfaa0ccef9cd4c507164f66c38dbb7d60b896e993675355d549",
+      "byteSize": 303320,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_player_igris_eenees",
+      "relativeUrl": "assets/players/img_player_igris_eenees.79ce4e245bb0.webp",
+      "sha256": "79ce4e245bb0af565b5c257ab2e6f22e177935c1eeb8957b2618050fd32aaa94",
+      "byteSize": 227428,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_player_kart_olin",
+      "relativeUrl": "assets/players/img_player_kart_olin.7c88b6214485.webp",
+      "sha256": "7c88b6214485032ac156cced75b361e3ed9fc9d0b300a95b905aa970792847f7",
+      "byteSize": 360428,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_player_umbrean_kona",
+      "relativeUrl": "assets/players/img_player_umbrean_kona.27df3c82aac8.webp",
+      "sha256": "27df3c82aac8c795dd37de9d01e37fb2dda83f8815746bc652e6c982599918bd",
+      "byteSize": 234042,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "img_symbol_black_network",
+      "relativeUrl": "assets/symbols/img_symbol_black_network.39479ee33511.webp",
+      "sha256": "39479ee33511ed989130f9be2119ade29b60f6aef46ffa5d8bc9b69f09fae1b7",
+      "byteSize": 14328,
+      "mimeType": "image/webp",
+      "width": 341,
+      "height": 341
+    },
+    {
+      "id": "img_symbol_cult_dragon",
+      "relativeUrl": "assets/symbols/img_symbol_cult_dragon.f22e22f1b456.webp",
+      "sha256": "f22e22f1b45676bbc85e08e40b6725b84d7dd529c0183169b570e590a17e761f",
+      "byteSize": 167044,
+      "mimeType": "image/webp",
+      "width": 690,
+      "height": 760
+    },
+    {
+      "id": "img_symbol_harpers",
+      "relativeUrl": "assets/symbols/img_symbol_harpers.723cd9c251c1.webp",
+      "sha256": "723cd9c251c15de41722f503e2fac587789bd9e794e2606adbd054a8062186c0",
+      "byteSize": 18568,
+      "mimeType": "image/webp",
+      "width": 270,
+      "height": 270
+    },
+    {
+      "id": "img_symbol_order_gauntlet",
+      "relativeUrl": "assets/symbols/img_symbol_order_gauntlet.ae1d04a32e0a.webp",
+      "sha256": "ae1d04a32e0acb44a4e9613e3df81147e6067cae7167dcf0ee48b49319ebb6f5",
+      "byteSize": 19904,
+      "mimeType": "image/webp",
+      "width": 341,
+      "height": 341
+    },
+    {
+      "id": "img_symbol_red_wizards",
+      "relativeUrl": "assets/symbols/img_symbol_red_wizards.d6f84b775919.webp",
+      "sha256": "d6f84b7759197a12096bba5cdb3e6ff8afb6654ae4118600186264dfda52bf09",
+      "byteSize": 54824,
+      "mimeType": "image/webp",
+      "width": 401,
+      "height": 404
+    },
+    {
+      "id": "img_symbol_tiamat",
+      "relativeUrl": "assets/symbols/img_symbol_tiamat.9fe9d66d93c4.webp",
+      "sha256": "9fe9d66d93c44b2910365b0b1ab3c477dbac8f79f71521bf92b7ba033804aaf6",
+      "byteSize": 50248,
+      "mimeType": "image/webp",
+      "width": 401,
+      "height": 404
+    },
+    {
+      "id": "map_baldurs_gate_player",
+      "relativeUrl": "assets/maps/map_baldurs_gate_player.09c2e2b5b09c.webp",
+      "sha256": "09c2e2b5b09ccb40353c09d406dfb0035d48af3aef013f977c33138c5b2f7d35",
+      "byteSize": 1127380,
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1276
+    },
+    {
+      "id": "map_black_antlers_annex_basement",
+      "relativeUrl": "assets/maps/map_black_antlers_annex_basement.90163e834182.webp",
+      "sha256": "90163e8341825da85791a3283e21187af833feaa77a379da50ea5f131e8f310b",
+      "byteSize": 329366,
+      "mimeType": "image/webp",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "map_black_antlers_annex_ground",
+      "relativeUrl": "assets/maps/map_black_antlers_annex_ground.9ab66b7ff02e.webp",
+      "sha256": "9ab66b7ff02efa04827c50139118754d89007d6bb4f0691dcb8f3db98b79f476",
+      "byteSize": 246102,
+      "mimeType": "image/webp",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "id": "map_black_antlers_main_basement",
+      "relativeUrl": "assets/maps/map_black_antlers_main_basement.0bb4c72c24f7.webp",
+      "sha256": "0bb4c72c24f741c77d48fed2cbe33579511fd2b0d4fab694b7897ed603aae6c4",
+      "byteSize": 286108,
+      "mimeType": "image/webp",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "id": "map_black_antlers_main_ground",
+      "relativeUrl": "assets/maps/map_black_antlers_main_ground.5841e836964d.webp",
+      "sha256": "5841e836964d586a3714cd7e7b4fc4fa8910035eec9196af12318b30223d0884",
+      "byteSize": 250918,
+      "mimeType": "image/webp",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "id": "map_black_antlers_main_upper",
+      "relativeUrl": "assets/maps/map_black_antlers_main_upper.cf5f82fd94c4.webp",
+      "sha256": "cf5f82fd94c455983dfa4f0c201f85461ccb98de1fffd1e7769e637adc518050",
+      "byteSize": 230496,
+      "mimeType": "image/webp",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "id": "map_carnath_first_floor_player",
+      "relativeUrl": "assets/maps/map_carnath_first_floor_player.06afd09742e4.webp",
+      "sha256": "06afd09742e48df628fdd036533053c3acf6d3aac12e69eee2e6e3ba11453f0b",
+      "byteSize": 1627868,
+      "mimeType": "image/webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "map_carnath_ground_floor_player",
+      "relativeUrl": "assets/maps/map_carnath_ground_floor_player.e96ded7464b3.webp",
+      "sha256": "e96ded7464b3b466cf6af649ca2becddaec2b753eb514e16a11f2b959882ec32",
+      "byteSize": 1789152,
+      "mimeType": "image/webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "map_dragon_hatchery_player",
+      "relativeUrl": "assets/maps/map_dragon_hatchery_player.1fbf7e856770.webp",
+      "sha256": "1fbf7e856770c4a9ab2ceae9277973066f61728b1a10f89896c13b5d278d80b5",
+      "byteSize": 790164,
+      "mimeType": "image/webp",
+      "width": 1823,
+      "height": 1350
+    },
+    {
+      "id": "map_elturel_player",
+      "relativeUrl": "assets/maps/map_elturel_player.d4678382c7e7.webp",
+      "sha256": "d4678382c7e74e9f5a997be3da330ff760022cdc4986b885b0765be10aae3c72",
+      "byteSize": 778568,
+      "mimeType": "image/webp",
+      "width": 2048,
+      "height": 1383
+    },
+    {
+      "id": "map_elturel_quartieri_player",
+      "relativeUrl": "assets/maps/map_elturel_quartieri_player.416ca24b66e4.webp",
+      "sha256": "416ca24b66e4146f3108abe7da073609e9152cc8284ee3dc7a63f8494aa98fa0",
+      "byteSize": 409834,
+      "mimeType": "image/webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "map_greenest_player",
+      "relativeUrl": "assets/maps/map_greenest_player.198f6b5e6114.webp",
+      "sha256": "198f6b5e61148bf4db8122d1471577f2ef599f5077cc8959009ee12ac089f079",
+      "byteSize": 562976,
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1357
+    },
+    {
+      "id": "map_raider_camp_player",
+      "relativeUrl": "assets/maps/map_raider_camp_player.949fb1e30ebf.webp",
+      "sha256": "949fb1e30ebf3ce16e4033e92188c9d9cffd1aacc22b8e9e0c1cbd57cce31d6e",
+      "byteSize": 603478,
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1422
+    },
+    {
+      "id": "map_waterdeep_player",
+      "relativeUrl": "assets/maps/map_waterdeep_player.941f97979571.webp",
+      "sha256": "941f9797957182af7f3bd78546c300cbbc32a9126c32795bcc3845517bb3d81f",
+      "byteSize": 4341562,
+      "mimeType": "image/webp",
+      "width": 1367,
+      "height": 2048
+    },
+    {
+      "id": "monster_accolito",
+      "relativeUrl": "assets/monsters/portraits/monster_accolito.fbb26c394119.webp",
+      "sha256": "fbb26c394119771f10a342e9498c64cabdd5d6bbf0fe3b008b15d3349f3ee9d1",
+      "byteSize": 118618,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_aldric_sorn",
+      "relativeUrl": "assets/monsters/portraits/monster_aldric_sorn.4fc59551afc7.webp",
+      "sha256": "4fc59551afc747a4eb769efe5209754ee48631e514ca38ad5c82dae217011936",
+      "byteSize": 232744,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "monster_azbara_jos",
+      "relativeUrl": "assets/monsters/portraits/monster_azbara_jos.236cb3af840d.webp",
+      "sha256": "236cb3af840dc57f3a2bf5881021c282f0e220a79b32a2c8a2d23d3f71555ca7",
+      "byteSize": 135978,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_berserker",
+      "relativeUrl": "assets/monsters/portraits/monster_berserker.a232638cbb96.webp",
+      "sha256": "a232638cbb96186d9f4a5a9c21e90779b84dd994f1d69225b7d546509f86ad04",
+      "byteSize": 104782,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_blagothkus",
+      "relativeUrl": "assets/monsters/portraits/monster_blagothkus.7f77a20eeef3.webp",
+      "sha256": "7f77a20eeef37d9b7da938389d157667ff3cca591adcc360c0881547ef211e90",
+      "byteSize": 90766,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_bullywug",
+      "relativeUrl": "assets/monsters/portraits/monster_bullywug.5810e12f6413.webp",
+      "sha256": "5810e12f6413d95aa1645ac1d7623b75d669b70be8b802482c7e3e0893b0f191",
+      "byteSize": 89840,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_capitano_othelstan",
+      "relativeUrl": "assets/monsters/portraits/monster_capitano_othelstan.8f52ac0abb40.webp",
+      "sha256": "8f52ac0abb40d5693d99b7b5f851bb1f1f82dd98725f82b4b9a47fdc9df56b10",
+      "byteSize": 77776,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_cavaliere",
+      "relativeUrl": "assets/monsters/portraits/monster_cavaliere.9b6b6a7103a9.webp",
+      "sha256": "9b6b6a7103a90aa4bc22b464a4235a74cc93d20586d4205641a9e27a040b10fd",
+      "byteSize": 65624,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_coboldo",
+      "relativeUrl": "assets/monsters/portraits/monster_coboldo.0de7d46e7cdb.webp",
+      "sha256": "0de7d46e7cdb940a1d1c7ba7481b6c3faff0bda1ffb0f353fe825c101082eaf8",
+      "byteSize": 51644,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_coboldo_alato",
+      "relativeUrl": "assets/monsters/portraits/monster_coboldo_alato.b943dd559820.webp",
+      "sha256": "b943dd5598204e834d31de20f32d2e03c76a5628c3669d0c582b7716c9099f3a",
+      "byteSize": 86676,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_coccodrillo",
+      "relativeUrl": "assets/monsters/portraits/monster_coccodrillo.91be113ab498.webp",
+      "sha256": "91be113ab4986004a9c93c4196ab78985e4b7d6375eb55cad93bfd75dd334a92",
+      "byteSize": 194648,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_coccodrillo_gigante",
+      "relativeUrl": "assets/monsters/portraits/monster_coccodrillo_gigante.f28c2107d83c.webp",
+      "sha256": "f28c2107d83c2d08210a02b08df5b6baddd8a3b88768a9b342dfd63c9ba330f6",
+      "byteSize": 184578,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_cultista",
+      "relativeUrl": "assets/monsters/portraits/monster_cultista.d19b98e311b2.webp",
+      "sha256": "d19b98e311b2013ddab6b58e057045f4be57f50d5ccde0f2d4d9cbb53a77b8cc",
+      "byteSize": 57746,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_cumulo_strisciante",
+      "relativeUrl": "assets/monsters/portraits/monster_cumulo_strisciante.43773da293c9.webp",
+      "sha256": "43773da293c9bc5cf4a26fe466d1bea79360eb310ce9370ec2aa3cb7ee6311d7",
+      "byteSize": 128548,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_doppelganger",
+      "relativeUrl": "assets/monsters/portraits/monster_doppelganger.efbd25fd485b.webp",
+      "sha256": "efbd25fd485b6265940b45634ba6221af3a337c5b31427bbb8a8d92108aee633",
+      "byteSize": 79488,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_drago_assaltatore",
+      "relativeUrl": "assets/monsters/portraits/monster_drago_assaltatore.af60ad7d32fc.webp",
+      "sha256": "af60ad7d32fcd3119dd8ddab162a15240a242cf1cfc77623053c866fe8ab4509",
+      "byteSize": 83344,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_drago_bianco_adulto",
+      "relativeUrl": "assets/monsters/portraits/monster_drago_bianco_adulto.76d4854ab044.webp",
+      "sha256": "76d4854ab0448df9d9c5ad1c4d948febd53cbcb5c6e882d42f64ee59bddd521a",
+      "byteSize": 97084,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_drago_blu_giovane",
+      "relativeUrl": "assets/monsters/portraits/monster_drago_blu_giovane.128bc4f265ce.webp",
+      "sha256": "128bc4f265ce1d6ee957d0bd49fcbf1873072e08de7d2adc3125d5770150c466",
+      "byteSize": 122030,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_drago_guardiano",
+      "relativeUrl": "assets/monsters/portraits/monster_drago_guardiano.29912be610f7.webp",
+      "sha256": "29912be610f7e6a69d2b229b0e78598deab948f6ee6d30a7d49fb42340748c95",
+      "byteSize": 80798,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_dragoartiglio",
+      "relativeUrl": "assets/monsters/portraits/monster_dragoartiglio.88e64775029a.webp",
+      "sha256": "88e64775029a2cf83a355fbd37abc8ca7e8861e3a9673e4b11a85373ebe2439e",
+      "byteSize": 50602,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_dragola",
+      "relativeUrl": "assets/monsters/portraits/monster_dragola.0859c248ac7f.webp",
+      "sha256": "0859c248ac7fdef3abb1a5840aeebd4e57c6e7fe99d87480160034a194e27f70",
+      "byteSize": 57304,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_dralmorrer_borngray",
+      "relativeUrl": "assets/monsters/portraits/monster_dralmorrer_borngray.e99c33dc4762.webp",
+      "sha256": "e99c33dc476271d5d50603e5c0042e309895197e80dd7baa4de635498d1f2cb5",
+      "byteSize": 94296,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_elariel_nailo",
+      "relativeUrl": "assets/monsters/portraits/monster_elariel_nailo.d7f04ec4e3c0.webp",
+      "sha256": "d7f04ec4e3c02f8165e9746b1487d405d8d8329d5ff94a88e1a4048968b9eae3",
+      "byteSize": 263556,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "monster_esploratore",
+      "relativeUrl": "assets/monsters/portraits/monster_esploratore.4a5bd3fcda63.webp",
+      "sha256": "4a5bd3fcda63943a6bf53666789bcff989737f2a1013255d6e8f799e21be96f2",
+      "byteSize": 75992,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_ettercap",
+      "relativeUrl": "assets/monsters/portraits/monster_ettercap.b0e176e258c8.webp",
+      "sha256": "b0e176e258c869a11fe944f22bf361fef42a9d877cb879902c309d15c9f4c005",
+      "byteSize": 107918,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_frulam_mondath",
+      "relativeUrl": "assets/monsters/portraits/monster_frulam_mondath.958b9ba79770.webp",
+      "sha256": "958b9ba797700212332962f88721dd7ff6cb39e389d1d13d8bf37fa10a309507",
+      "byteSize": 65574,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_fuoco_fatuo",
+      "relativeUrl": "assets/monsters/portraits/monster_fuoco_fatuo.1af59d4f8621.webp",
+      "sha256": "1af59d4f862128694744cf0a4114436855707ca9fba6fa179f119760a70a88df",
+      "byteSize": 56066,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_fustigatore",
+      "relativeUrl": "assets/monsters/portraits/monster_fustigatore.0d70cdf28c03.webp",
+      "sha256": "0d70cdf28c03b13674f0808997e60948471fe042be97434073db9700a66bffd8",
+      "byteSize": 95712,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_gargoyle",
+      "relativeUrl": "assets/monsters/portraits/monster_gargoyle.93d5d2c255c7.webp",
+      "sha256": "93d5d2c255c744dd116ebd8ea048f6eabeb7d92a670a511cf744e6e8849fa6b3",
+      "byteSize": 82534,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_garrik_rulven",
+      "relativeUrl": "assets/monsters/portraits/monster_garrik_rulven.a9bbe7bea938.webp",
+      "sha256": "a9bbe7bea9389c101d24ceb15a54515f2d424c331fb2dedb7b37caa80adf5bc1",
+      "byteSize": 282960,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "monster_gigante_delle_pietre",
+      "relativeUrl": "assets/monsters/portraits/monster_gigante_delle_pietre.88b191010f2d.webp",
+      "sha256": "88b191010f2d16f9981978d70c9f2d94b10ea8ebe3fe542a7a1f923ce2d68b62",
+      "byteSize": 105666,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_gladiatore",
+      "relativeUrl": "assets/monsters/portraits/monster_gladiatore.e3423723d109.webp",
+      "sha256": "e3423723d1097c83c870d727b60c99e7f3810514ba22eac3d7c721027478dd0f",
+      "byteSize": 69964,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_golem_di_pietra",
+      "relativeUrl": "assets/monsters/portraits/monster_golem_di_pietra.b2ef9f098aa6.webp",
+      "sha256": "b2ef9f098aa6a1dd8be423671fe271d1632d390811e7dfcb085109cb899df032",
+      "byteSize": 73294,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_guardia",
+      "relativeUrl": "assets/monsters/portraits/monster_guardia.c5f913d9a2f4.webp",
+      "sha256": "c5f913d9a2f4f62f356cb85ce3c421f08ada813b3dd6789a0230dc8e9148684f",
+      "byteSize": 61348,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_hobgoblin",
+      "relativeUrl": "assets/monsters/portraits/monster_hobgoblin.0e0f6c6111b7.webp",
+      "sha256": "0e0f6c6111b7ddd036dc823e280cd6fd1146f4145b5d2497d0c3e1b1b7ff3d15",
+      "byteSize": 95244,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_hobgoblin_capitano",
+      "relativeUrl": "assets/monsters/portraits/monster_hobgoblin_capitano.da7b61de46d1.webp",
+      "sha256": "da7b61de46d1385909e67c443e64472c299025b7fa3dd393c694f3b60a3134cf",
+      "byteSize": 50548,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_hobgoblin_signore_della_guerra",
+      "relativeUrl": "assets/monsters/portraits/monster_hobgoblin_signore_della_guerra.1549386d89e0.webp",
+      "sha256": "1549386d89e0b487e1d99ba27d66488eda7d3b3b92e7f6c7bca29a5c0d0449e0",
+      "byteSize": 73238,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_jamna_gleamsilver",
+      "relativeUrl": "assets/monsters/portraits/monster_jamna_gleamsilver.d0e398084491.webp",
+      "sha256": "d0e3980844917dde30547add4561a91b558bf70beba3c710f3f999a46efb154b",
+      "byteSize": 58244,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_kaelen_dathar",
+      "relativeUrl": "assets/monsters/portraits/monster_kaelen_dathar.35ab0717704f.webp",
+      "sha256": "35ab0717704fa2a3851eaaa55c5c7dca4664092824ed90027aa536c45dedad8e",
+      "byteSize": 281090,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "monster_langdedrosa_cyanwrath",
+      "relativeUrl": "assets/monsters/portraits/monster_langdedrosa_cyanwrath.f36dbcc3122a.webp",
+      "sha256": "f36dbcc3122a1c940308628a2c46e80d9c7b85c62ecdea80340cc459de9b3364",
+      "byteSize": 86206,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_lucertola_gigante",
+      "relativeUrl": "assets/monsters/portraits/monster_lucertola_gigante.81fff729dd9d.webp",
+      "sha256": "81fff729dd9dd6856be6ee0ee9aaa9648309e88f23feadf15e1005cb579c388a",
+      "byteSize": 75162,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_lucertoloide",
+      "relativeUrl": "assets/monsters/portraits/monster_lucertoloide.d5c91e24d382.webp",
+      "sha256": "d5c91e24d382af5db697235e626002f26608a21ec40cd3299b4242966642ee10",
+      "byteSize": 89466,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_lucertoloide_sciamano",
+      "relativeUrl": "assets/monsters/portraits/monster_lucertoloide_sciamano.b0f088cb5b69.webp",
+      "sha256": "b0f088cb5b69ebd7251149c5fff88488cc2d5186dbde92f207754b2b461e3391",
+      "byteSize": 67596,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_mago",
+      "relativeUrl": "assets/monsters/portraits/monster_mago.95739c6905e0.webp",
+      "sha256": "95739c6905e0c4b9e82ec71c88e93d69824e1ac648c6af9a1fa81a6d60a01e9a",
+      "byteSize": 67392,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_manticora",
+      "relativeUrl": "assets/monsters/portraits/monster_manticora.0f8f4c043aac.webp",
+      "sha256": "0f8f4c043aac390a6378fd8d3d61e7a10e52b52d443c50dca9ee2b1b8614c502",
+      "byteSize": 95878,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_melma_grigia",
+      "relativeUrl": "assets/monsters/portraits/monster_melma_grigia.50d3c1962742.webp",
+      "sha256": "50d3c1962742be623600a8760d72dfae22224498cffb50537c39636a6096842f",
+      "byteSize": 103350,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_millepiedi_gigante",
+      "relativeUrl": "assets/monsters/portraits/monster_millepiedi_gigante.6f56a4d4d1f9.webp",
+      "sha256": "6f56a4d4d1f966e2e7f38b9cad3258b88b024acbaeaf6ffa77fbea4bc07eee61",
+      "byteSize": 100280,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_nobile",
+      "relativeUrl": "assets/monsters/portraits/monster_nobile.28bf0a588724.webp",
+      "sha256": "28bf0a588724f3d90396a50da5e3ec028c096f0cc10ca60051f712eb475162fa",
+      "byteSize": 87734,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_ogre",
+      "relativeUrl": "assets/monsters/portraits/monster_ogre.254b575ee88a.webp",
+      "sha256": "254b575ee88a0a1ecc16585217e7a71c4967f87cb57f03a5bcb60e73d85f87e4",
+      "byteSize": 99754,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_oni",
+      "relativeUrl": "assets/monsters/portraits/monster_oni.c12cc2ea0ef2.webp",
+      "sha256": "c12cc2ea0ef214a1af0920033cc946ea4a6458a52e3203a7c8c37805279d6cdb",
+      "byteSize": 126266,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_orrore_corazzato",
+      "relativeUrl": "assets/monsters/portraits/monster_orrore_corazzato.56eedba01dd0.webp",
+      "sha256": "56eedba01dd0f733beffb728bbfd10fd07f170da08fe2c787ae6795bff9fde2b",
+      "byteSize": 98234,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_otyugh",
+      "relativeUrl": "assets/monsters/portraits/monster_otyugh.baa16b6240fb.webp",
+      "sha256": "baa16b6240fba16d1d9a00c41fcfba60910e4af819563f97f6a3214116fba4e9",
+      "byteSize": 118080,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_peryton",
+      "relativeUrl": "assets/monsters/portraits/monster_peryton.4e7e8084a595.webp",
+      "sha256": "4e7e8084a595feb96aef61cbb4990d06a6357f955aa9abe2a956b5998878bc94",
+      "byteSize": 86754,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_pharblex_spattergoo",
+      "relativeUrl": "assets/monsters/portraits/monster_pharblex_spattergoo.31eedcc77f6a.webp",
+      "sha256": "31eedcc77f6a1470a9a5cd79f7d00fde8e21e424555977ce897ba388edb202f2",
+      "byteSize": 201914,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_popolano",
+      "relativeUrl": "assets/monsters/portraits/monster_popolano.7b2916ca4f60.webp",
+      "sha256": "7b2916ca4f604f2b41f6994cc3a4ced4d631a391009e6c25388e535612dc814c",
+      "byteSize": 97910,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_ragno_fase",
+      "relativeUrl": "assets/monsters/portraits/monster_ragno_fase.a5241e66b409.webp",
+      "sha256": "a5241e66b4098369740c3564da22cd33d815bfea63e4f724d0dd4cd16a29f9ac",
+      "byteSize": 47648,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_ragno_gigante",
+      "relativeUrl": "assets/monsters/portraits/monster_ragno_gigante.b97739f55356.webp",
+      "sha256": "b97739f55356ad2fa8eaf6c5fba674b93076396e5ce4795938bcc82cff05c8e3",
+      "byteSize": 83598,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_rana_gigante",
+      "relativeUrl": "assets/monsters/portraits/monster_rana_gigante.8a588d0cfd58.webp",
+      "sha256": "8a588d0cfd58439d9834103062be23852cba3eab1c4f5e2308a891d32a4d599a",
+      "byteSize": 145100,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_rath_modar",
+      "relativeUrl": "assets/monsters/portraits/monster_rath_modar.e7afc1addda4.webp",
+      "sha256": "e7afc1addda4cb68d2c7f4718a081453a77b3ea01997e1e62c0e040ea26c715c",
+      "byteSize": 101602,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_rezmir",
+      "relativeUrl": "assets/monsters/portraits/monster_rezmir.d90bdba29051.webp",
+      "sha256": "d90bdba29051fc2fdebbfd311e80a928b3c4b8b5b3ed15f3474c1e23e16ce609",
+      "byteSize": 98738,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_roderic_thann",
+      "relativeUrl": "assets/monsters/portraits/monster_roderic_thann.41747a7e88bc.webp",
+      "sha256": "41747a7e88bc4c82b3e817189b2123104c615a7921b06fc1ae3e0ee4a851adf1",
+      "byteSize": 267126,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "monster_rospo_gigante",
+      "relativeUrl": "assets/monsters/portraits/monster_rospo_gigante.7bc17a152de5.webp",
+      "sha256": "7bc17a152de5060a018700fd36bbbec7c9207d3212a089ec765570d2f995b388",
+      "byteSize": 151398,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_sciame_di_millepiedi",
+      "relativeUrl": "assets/monsters/portraits/monster_sciame_di_millepiedi.51efd7a7a1c6.webp",
+      "sha256": "51efd7a7a1c6c75b11e213665fb48d77bb1c19b885c3a6f006734dac0c3835f7",
+      "byteSize": 144856,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_siren_ilvastarr",
+      "relativeUrl": "assets/monsters/portraits/monster_siren_ilvastarr.7ff13f8b1fe8.webp",
+      "sha256": "7ff13f8b1fe878ab2038127f48e0e97f3821c83fbbe80ea6a8aa4add181357c4",
+      "byteSize": 213632,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "monster_spettro",
+      "relativeUrl": "assets/monsters/portraits/monster_spettro.4a9d2d81954a.webp",
+      "sha256": "4a9d2d81954a75322655fe8cc6bacf2a85dc77e314a5a6cf40b719a05119a109",
+      "byteSize": 88260,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_talis_la_bianca",
+      "relativeUrl": "assets/monsters/portraits/monster_talis_la_bianca.6e85648c9024.webp",
+      "sha256": "6e85648c9024f05421d9d9f7b8a9ac1dcc37beaab4ab5081668e0ba85736734b",
+      "byteSize": 74336,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_troglodita",
+      "relativeUrl": "assets/monsters/portraits/monster_troglodita.9827aeaf9c6d.webp",
+      "sha256": "9827aeaf9c6d330fceac2120ecf2d602a3055e4c5d20a14e7ba74684017b1a85",
+      "byteSize": 68246,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_troll",
+      "relativeUrl": "assets/monsters/portraits/monster_troll.fe452bdcf11e.webp",
+      "sha256": "fe452bdcf11eb7ab23981534e621cbe98dec0e998b7730a95ad8680876dc626d",
+      "byteSize": 83750,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_uccello_stigeo",
+      "relativeUrl": "assets/monsters/portraits/monster_uccello_stigeo.e38ac1f9189f.webp",
+      "sha256": "e38ac1f9189f9884d8d0d8b51ff2502bcd3b76074362cb8fef84bb2d4a9b797f",
+      "byteSize": 119348,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_vermeiena",
+      "relativeUrl": "assets/monsters/portraits/monster_vermeiena.ea7d3a6698e6.webp",
+      "sha256": "ea7d3a6698e6f97a2e704e20d22d1699c754b85816e3d91dba153f09df355634",
+      "byteSize": 122498,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_veterano",
+      "relativeUrl": "assets/monsters/portraits/monster_veterano.e4daddb7f602.webp",
+      "sha256": "e4daddb7f6028109b69cc37b6dc681666622f3e33e61d898a123b4625dcfb2c0",
+      "byteSize": 63560,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_veyra_amcathra",
+      "relativeUrl": "assets/monsters/portraits/monster_veyra_amcathra.3d870459e601.webp",
+      "sha256": "3d870459e6011844b46c22ee63f7ddf7ea397f2d4c06e9c9c09905a8f2e13e41",
+      "byteSize": 281974,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "monster_viverna",
+      "relativeUrl": "assets/monsters/portraits/monster_viverna.81392a2549d1.webp",
+      "sha256": "81392a2549d19ae075c0a38a7749b5686f8fc848d1c639b3089e8ac62c451d05",
+      "byteSize": 38068,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_yuan_ti_nefasto",
+      "relativeUrl": "assets/monsters/portraits/monster_yuan_ti_nefasto.cb0c9262f7ac.webp",
+      "sha256": "cb0c9262f7ac5e0ffe84cba992eb6e5fa6ee8e9fc6ce02cdb7dc6c87a0d75aba",
+      "byteSize": 106748,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_yuan_ti_sanguepuro",
+      "relativeUrl": "assets/monsters/portraits/monster_yuan_ti_sanguepuro.3da78310b9c6.webp",
+      "sha256": "3da78310b9c68a81bede696806e9e6ef89e841521f6a3705bff543241494f375",
+      "byteSize": 76490,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "portrait_asdrubale_losurdus",
+      "relativeUrl": "assets/players/portrait_asdrubale_losurdus.a6ceb99b4569.webp",
+      "sha256": "a6ceb99b4569e482c705c64468f823690e4fd1f46b7f9d67ab2794f2fbea6598",
+      "byteSize": 297536,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait_igris_eenees",
+      "relativeUrl": "assets/players/portrait_igris_eenees.e13ddf85ddc8.webp",
+      "sha256": "e13ddf85ddc81adda148b11dfc24a54f2f4dc463d85dfa8969dffe19c4924758",
+      "byteSize": 103762,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait_kart_olin",
+      "relativeUrl": "assets/players/portrait_kart_olin.15dc9b27abd1.webp",
+      "sha256": "15dc9b27abd15600f44d5689433e806e7c4660cdd6d69cdc4b7e3525bc70a264",
+      "byteSize": 323108,
+      "mimeType": "image/webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait_monster_gladiatore",
+      "relativeUrl": "assets/monsters/portraits/portrait_monster_gladiatore.bb066399a4ba.webp",
+      "sha256": "bb066399a4ba17bd2861b208c82ca7df4f8d5d9620e154247fddad90b3a20d04",
+      "byteSize": 345122,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "portrait_monster_hobgoblin_signore_della_guerra",
+      "relativeUrl": "assets/monsters/portraits/portrait_monster_hobgoblin_signore_della_guerra.4b421487c1c5.webp",
+      "sha256": "4b421487c1c5118208eb0a1778e969df573e43753081eecb22fb1497570a8406",
+      "byteSize": 391824,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "portrait_monster_manticora",
+      "relativeUrl": "assets/monsters/portraits/portrait_monster_manticora.3b3be28853b1.webp",
+      "sha256": "3b3be28853b13f35e8e13eb71baa5894cd4281af8b1bfb3ee52e735a494da2bf",
+      "byteSize": 383360,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "portrait_monster_oni",
+      "relativeUrl": "assets/monsters/portraits/portrait_monster_oni.a2d592371083.webp",
+      "sha256": "a2d592371083e072acb110287dd6caf980856a2ad5b97215a362cf6aa5421185",
+      "byteSize": 225476,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "portrait_monster_ragno_fase",
+      "relativeUrl": "assets/monsters/portraits/portrait_monster_ragno_fase.8dc305db8ec8.webp",
+      "sha256": "8dc305db8ec8d1f5f1e96adcbaa8bfdc69ecd6a34693291e0f993a0dd31fb2ff",
+      "byteSize": 73604,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "portrait_monster_veterano",
+      "relativeUrl": "assets/monsters/portraits/portrait_monster_veterano.aee8ad3252ba.webp",
+      "sha256": "aee8ad3252ba0709544558f49d2f9e97d4dceb82de9cd1438625d08b3f43589d",
+      "byteSize": 380438,
+      "mimeType": "image/webp",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "portrait_umbrean_kona",
+      "relativeUrl": "assets/players/portrait_umbrean_kona.095da5e8d952.webp",
+      "sha256": "095da5e8d9527c51eba71a9a1d45fc1e66d54e980c808318fdaeafbfd4ba08d1",
+      "byteSize": 87086,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    }
+  ]
+}

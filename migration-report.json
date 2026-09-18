@@ -1,0 +1,1906 @@
+[
+  {
+    "assetId": "archivio_castello_naerytar_esterno",
+    "legacyReference": "drawable:archivio_castello_naerytar_esterno",
+    "remoteReference": "media:archivio_castello_naerytar_esterno",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\archivio_castello_naerytar_esterno.webp",
+    "stagedPath": "assets/archive/archivio_castello_naerytar_esterno.6d56ca5e5287.webp"
+  },
+  {
+    "assetId": "archivio_paludi_della_morte",
+    "legacyReference": "drawable:archivio_paludi_della_morte",
+    "remoteReference": "media:archivio_paludi_della_morte",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\archivio_paludi_della_morte.webp",
+    "stagedPath": "assets/archive/archivio_paludi_della_morte.3c088dd368bc.webp"
+  },
+  {
+    "assetId": "archivio_portale_caverne",
+    "legacyReference": "drawable:archivio_portale_caverne",
+    "remoteReference": "media:archivio_portale_caverne",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\archivio_portale_caverne.webp",
+    "stagedPath": "assets/archive/archivio_portale_caverne.b542f43a1b42.webp"
+  },
+  {
+    "assetId": "archivio_portale_caverne_video",
+    "legacyReference": "raw:archivio_portale_caverne",
+    "remoteReference": "media:archivio_portale_caverne_video",
+    "sourcePath": "app\\src\\main\\res\\raw\\archivio_portale_caverne.mp4",
+    "stagedPath": "assets/video/archivio_portale_caverne_video.3c079b2a42c2.mp4"
+  },
+  {
+    "assetId": "encounter_theme_blocked_wagon_ambush",
+    "legacyReference": "drawable:encounter_theme_blocked_wagon_ambush",
+    "remoteReference": "media:encounter_theme_blocked_wagon_ambush",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_blocked_wagon_ambush.webp",
+    "stagedPath": "assets/encounters/encounter_theme_blocked_wagon_ambush.d1cc428cb6ac.webp"
+  },
+  {
+    "assetId": "encounter_theme_caravan_camp",
+    "legacyReference": "drawable:encounter_theme_caravan_camp",
+    "remoteReference": "media:encounter_theme_caravan_camp",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_caravan_camp.webp",
+    "stagedPath": "assets/encounters/encounter_theme_caravan_camp.0a352d1197d5.webp"
+  },
+  {
+    "assetId": "encounter_theme_caravan_road",
+    "legacyReference": "drawable:encounter_theme_caravan_road",
+    "remoteReference": "media:encounter_theme_caravan_road",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_caravan_road.webp",
+    "stagedPath": "assets/encounters/encounter_theme_caravan_road.5c2477ac7010.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_01_snapjaw_camp",
+    "legacyReference": "drawable:encounter_theme_ch6_01_snapjaw_camp",
+    "remoteReference": "media:encounter_theme_ch6_01_snapjaw_camp",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_01_snapjaw_camp.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_01_snapjaw_camp.e31672326f02.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_02_swamp_bullywug",
+    "legacyReference": "drawable:encounter_theme_ch6_02_swamp_bullywug",
+    "remoteReference": "media:encounter_theme_ch6_02_swamp_bullywug",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_02_swamp_bullywug.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_02_swamp_bullywug.5286b1e56b40.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_03_swamp_shambling_mound",
+    "legacyReference": "drawable:encounter_theme_ch6_03_swamp_shambling_mound",
+    "remoteReference": "media:encounter_theme_ch6_03_swamp_shambling_mound",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_03_swamp_shambling_mound.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_03_swamp_shambling_mound.fa6b16463541.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_04_swamp_will_o_wisps",
+    "legacyReference": "drawable:encounter_theme_ch6_04_swamp_will_o_wisps",
+    "remoteReference": "media:encounter_theme_ch6_04_swamp_will_o_wisps",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_04_swamp_will_o_wisps.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_04_swamp_will_o_wisps.1eed63b3a54e.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_05_animal_pen",
+    "legacyReference": "drawable:encounter_theme_ch6_05_animal_pen",
+    "remoteReference": "media:encounter_theme_ch6_05_animal_pen",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_05_animal_pen.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_05_animal_pen.e2df2d47f551.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_06_bullywug_huts",
+    "legacyReference": "drawable:encounter_theme_ch6_06_bullywug_huts",
+    "remoteReference": "media:encounter_theme_ch6_06_bullywug_huts",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_06_bullywug_huts.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_06_bullywug_huts.b3f180e478aa.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_07_moat",
+    "legacyReference": "drawable:encounter_theme_ch6_07_moat",
+    "remoteReference": "media:encounter_theme_ch6_07_moat",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_07_moat.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_07_moat.2301856488ef.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_08_gatehouse_1a",
+    "legacyReference": "drawable:encounter_theme_ch6_08_gatehouse_1a",
+    "remoteReference": "media:encounter_theme_ch6_08_gatehouse_1a",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_08_gatehouse_1a.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_08_gatehouse_1a.a0a722ad7364.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_09_courtyard_1d",
+    "legacyReference": "drawable:encounter_theme_ch6_09_courtyard_1d",
+    "remoteReference": "media:encounter_theme_ch6_09_courtyard_1d",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_09_courtyard_1d.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_09_courtyard_1d.eadd1857c15e.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_10_refuse_pit_1e",
+    "legacyReference": "drawable:encounter_theme_ch6_10_refuse_pit_1e",
+    "remoteReference": "media:encounter_theme_ch6_10_refuse_pit_1e",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_10_refuse_pit_1e.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_10_refuse_pit_1e.b8d3832e1053.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_11_stables_1f",
+    "legacyReference": "drawable:encounter_theme_ch6_11_stables_1f",
+    "remoteReference": "media:encounter_theme_ch6_11_stables_1f",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_11_stables_1f.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_11_stables_1f.2d6cd1a265d2.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_12_lower_dormitory_1g",
+    "legacyReference": "drawable:encounter_theme_ch6_12_lower_dormitory_1g",
+    "remoteReference": "media:encounter_theme_ch6_12_lower_dormitory_1g",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_12_lower_dormitory_1g.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_12_lower_dormitory_1g.b5f3c9a1b433.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_13_chapel_1n",
+    "legacyReference": "drawable:encounter_theme_ch6_13_chapel_1n",
+    "remoteReference": "media:encounter_theme_ch6_13_chapel_1n",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_13_chapel_1n.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_13_chapel_1n.f99c80821272.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_14_great_hall_1q",
+    "legacyReference": "drawable:encounter_theme_ch6_14_great_hall_1q",
+    "remoteReference": "media:encounter_theme_ch6_14_great_hall_1q",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_14_great_hall_1q.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_14_great_hall_1q.726a1340d7b5.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_15_upper_gatehouse_2a",
+    "legacyReference": "drawable:encounter_theme_ch6_15_upper_gatehouse_2a",
+    "remoteReference": "media:encounter_theme_ch6_15_upper_gatehouse_2a",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_15_upper_gatehouse_2a.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_15_upper_gatehouse_2a.0ca1c83b7a6b.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_17_library_2n",
+    "legacyReference": "drawable:encounter_theme_ch6_17_library_2n",
+    "remoteReference": "media:encounter_theme_ch6_17_library_2n",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_17_library_2n.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_17_library_2n.44905d060237.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_18_cultist_chamber_2r",
+    "legacyReference": "drawable:encounter_theme_ch6_18_cultist_chamber_2r",
+    "remoteReference": "media:encounter_theme_ch6_18_cultist_chamber_2r",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_18_cultist_chamber_2r.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_18_cultist_chamber_2r.b2befaa8c569.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_19_dragonwing_chamber_2t",
+    "legacyReference": "drawable:encounter_theme_ch6_19_dragonwing_chamber_2t",
+    "remoteReference": "media:encounter_theme_ch6_19_dragonwing_chamber_2t",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_19_dragonwing_chamber_2t.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_19_dragonwing_chamber_2t.de7f25aa34f9.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_20_specter_refuge_3e",
+    "legacyReference": "drawable:encounter_theme_ch6_20_specter_refuge_3e",
+    "remoteReference": "media:encounter_theme_ch6_20_specter_refuge_3e",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_20_specter_refuge_3e.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_20_specter_refuge_3e.fed285e1eb9e.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_21_spider_lair_3h_3j",
+    "legacyReference": "drawable:encounter_theme_ch6_21_spider_lair_3h_3j",
+    "remoteReference": "media:encounter_theme_ch6_21_spider_lair_3h_3j",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_21_spider_lair_3h_3j.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_21_spider_lair_3h_3j.8a3f18a89a8c.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_22_dragonwing_chamber_3r",
+    "legacyReference": "drawable:encounter_theme_ch6_22_dragonwing_chamber_3r",
+    "remoteReference": "media:encounter_theme_ch6_22_dragonwing_chamber_3r",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_22_dragonwing_chamber_3r.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_22_dragonwing_chamber_3r.c4a08e275dc0.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_23_observatory_3u",
+    "legacyReference": "drawable:encounter_theme_ch6_23_observatory_3u",
+    "remoteReference": "media:encounter_theme_ch6_23_observatory_3u",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_23_observatory_3u.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_23_observatory_3u.12feb9cbbc9c.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_24_gray_ooze_dungeon_2",
+    "legacyReference": "drawable:encounter_theme_ch6_24_gray_ooze_dungeon_2",
+    "remoteReference": "media:encounter_theme_ch6_24_gray_ooze_dungeon_2",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_24_gray_ooze_dungeon_2.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_24_gray_ooze_dungeon_2.4e84e086cb48.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_25_wyvern_cave_dungeon_4",
+    "legacyReference": "drawable:encounter_theme_ch6_25_wyvern_cave_dungeon_4",
+    "remoteReference": "media:encounter_theme_ch6_25_wyvern_cave_dungeon_4",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_25_wyvern_cave_dungeon_4.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_25_wyvern_cave_dungeon_4.5a02fa254fca.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_26_frog_lake_dungeon_6_7",
+    "legacyReference": "drawable:encounter_theme_ch6_26_frog_lake_dungeon_6_7",
+    "remoteReference": "media:encounter_theme_ch6_26_frog_lake_dungeon_6_7",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_26_frog_lake_dungeon_6_7.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_26_frog_lake_dungeon_6_7.69cfed3cbb99.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_27_bullywug_dungeon_8",
+    "legacyReference": "drawable:encounter_theme_ch6_27_bullywug_dungeon_8",
+    "remoteReference": "media:encounter_theme_ch6_27_bullywug_dungeon_8",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_27_bullywug_dungeon_8.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_27_bullywug_dungeon_8.919562f5aa05.webp"
+  },
+  {
+    "assetId": "encounter_theme_ch6_28_frog_shrine_dungeon_11",
+    "legacyReference": "drawable:encounter_theme_ch6_28_frog_shrine_dungeon_11",
+    "remoteReference": "media:encounter_theme_ch6_28_frog_shrine_dungeon_11",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ch6_28_frog_shrine_dungeon_11.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ch6_28_frog_shrine_dungeon_11.9fdb0c3fe1f6.webp"
+  },
+  {
+    "assetId": "encounter_theme_cultist_duel",
+    "legacyReference": "drawable:encounter_theme_cultist_duel",
+    "remoteReference": "media:encounter_theme_cultist_duel",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_cultist_duel.webp",
+    "stagedPath": "assets/encounters/encounter_theme_cultist_duel.4791215427cd.webp"
+  },
+  {
+    "assetId": "encounter_theme_generic_dungeon",
+    "legacyReference": "drawable:encounter_theme_generic_dungeon",
+    "remoteReference": "media:encounter_theme_generic_dungeon",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_generic_dungeon.webp",
+    "stagedPath": "assets/encounters/encounter_theme_generic_dungeon.679650ed4412.webp"
+  },
+  {
+    "assetId": "encounter_theme_isolated_roadside_inn",
+    "legacyReference": "drawable:encounter_theme_isolated_roadside_inn",
+    "remoteReference": "media:encounter_theme_isolated_roadside_inn",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_isolated_roadside_inn.webp",
+    "stagedPath": "assets/encounters/encounter_theme_isolated_roadside_inn.c46cfe6434f1.webp"
+  },
+  {
+    "assetId": "encounter_theme_lizardfolk_swamp",
+    "legacyReference": "drawable:encounter_theme_lizardfolk_swamp",
+    "remoteReference": "media:encounter_theme_lizardfolk_swamp",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_lizardfolk_swamp.webp",
+    "stagedPath": "assets/encounters/encounter_theme_lizardfolk_swamp.e8a758648d98.webp"
+  },
+  {
+    "assetId": "encounter_theme_lizardfolk_warehouse",
+    "legacyReference": "drawable:encounter_theme_lizardfolk_warehouse",
+    "remoteReference": "media:encounter_theme_lizardfolk_warehouse",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_lizardfolk_warehouse.webp",
+    "stagedPath": "assets/encounters/encounter_theme_lizardfolk_warehouse.efe0bb346aee.webp"
+  },
+  {
+    "assetId": "encounter_theme_ogre_hills",
+    "legacyReference": "drawable:encounter_theme_ogre_hills",
+    "remoteReference": "media:encounter_theme_ogre_hills",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_ogre_hills.webp",
+    "stagedPath": "assets/encounters/encounter_theme_ogre_hills.356edb1b2a9d.webp"
+  },
+  {
+    "assetId": "encounter_theme_open_hill_road",
+    "legacyReference": "drawable:encounter_theme_open_hill_road",
+    "remoteReference": "media:encounter_theme_open_hill_road",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_open_hill_road.webp",
+    "stagedPath": "assets/encounters/encounter_theme_open_hill_road.801f44768d3a.webp"
+  },
+  {
+    "assetId": "encounter_theme_room_07_vivaio_draghi",
+    "legacyReference": "drawable:encounter_theme_room_07_vivaio_draghi",
+    "remoteReference": "media:encounter_theme_room_07_vivaio_draghi",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_room_07_vivaio_draghi.webp",
+    "stagedPath": "assets/encounters/encounter_theme_room_07_vivaio_draghi.7f0cf802b819.webp"
+  },
+  {
+    "assetId": "encounter_theme_room_08_dormitori_coboldi",
+    "legacyReference": "drawable:encounter_theme_room_08_dormitori_coboldi",
+    "remoteReference": "media:encounter_theme_room_08_dormitori_coboldi",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_room_08_dormitori_coboldi.webp",
+    "stagedPath": "assets/encounters/encounter_theme_room_08_dormitori_coboldi.1f8ddb2e1905.webp"
+  },
+  {
+    "assetId": "encounter_theme_room_09_santuario_draghi",
+    "legacyReference": "drawable:encounter_theme_room_09_santuario_draghi",
+    "remoteReference": "media:encounter_theme_room_09_santuario_draghi",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_room_09_santuario_draghi.webp",
+    "stagedPath": "assets/encounters/encounter_theme_room_09_santuario_draghi.fde39e257271.webp"
+  },
+  {
+    "assetId": "encounter_theme_room_10a_uova_drago_nero",
+    "legacyReference": "drawable:encounter_theme_room_10a_uova_drago_nero",
+    "remoteReference": "media:encounter_theme_room_10a_uova_drago_nero",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_room_10a_uova_drago_nero.webp",
+    "stagedPath": "assets/encounters/encounter_theme_room_10a_uova_drago_nero.9c61058163c4.webp"
+  },
+  {
+    "assetId": "encounter_theme_room_10b_nascondiglio_coboldi",
+    "legacyReference": "drawable:encounter_theme_room_10b_nascondiglio_coboldi",
+    "remoteReference": "media:encounter_theme_room_10b_nascondiglio_coboldi",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_room_10b_nascondiglio_coboldi.webp",
+    "stagedPath": "assets/encounters/encounter_theme_room_10b_nascondiglio_coboldi.6d04e35ed1cd.webp"
+  },
+  {
+    "assetId": "encounter_theme_room_11_camera_frulam",
+    "legacyReference": "drawable:encounter_theme_room_11_camera_frulam",
+    "remoteReference": "media:encounter_theme_room_11_camera_frulam",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_room_11_camera_frulam.webp",
+    "stagedPath": "assets/encounters/encounter_theme_room_11_camera_frulam.bfd343c92c7d.webp"
+  },
+  {
+    "assetId": "encounter_theme_room_12_dormitorio_guardie",
+    "legacyReference": "drawable:encounter_theme_room_12_dormitorio_guardie",
+    "remoteReference": "media:encounter_theme_room_12_dormitorio_guardie",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_room_12_dormitorio_guardie.webp",
+    "stagedPath": "assets/encounters/encounter_theme_room_12_dormitorio_guardie.73a62b587811.webp"
+  },
+  {
+    "assetId": "encounter_theme_spider_infested_forest",
+    "legacyReference": "drawable:encounter_theme_spider_infested_forest",
+    "remoteReference": "media:encounter_theme_spider_infested_forest",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_spider_infested_forest.webp",
+    "stagedPath": "assets/encounters/encounter_theme_spider_infested_forest.d5250da13b71.webp"
+  },
+  {
+    "assetId": "encounter_theme_troll_mountain_trail",
+    "legacyReference": "drawable:encounter_theme_troll_mountain_trail",
+    "remoteReference": "media:encounter_theme_troll_mountain_trail",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\encounter_theme_troll_mountain_trail.webp",
+    "stagedPath": "assets/encounters/encounter_theme_troll_mountain_trail.a38173ac08b8.webp"
+  },
+  {
+    "assetId": "img_enemy_acolyte",
+    "legacyReference": "drawable:img_enemy_acolyte",
+    "remoteReference": "media:img_enemy_acolyte",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_acolyte.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_acolyte.9958346818f5.webp"
+  },
+  {
+    "assetId": "img_enemy_aldric_sorn",
+    "legacyReference": "drawable:img_enemy_aldric_sorn",
+    "remoteReference": "media:img_enemy_aldric_sorn",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_aldric_sorn.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_aldric_sorn.528ad6a4835b.webp"
+  },
+  {
+    "assetId": "img_enemy_attack_drake",
+    "legacyReference": "drawable:img_enemy_attack_drake",
+    "remoteReference": "media:img_enemy_attack_drake",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_attack_drake.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_attack_drake.037b795bfc49.webp"
+  },
+  {
+    "assetId": "img_enemy_berserker",
+    "legacyReference": "drawable:img_enemy_berserker",
+    "remoteReference": "media:img_enemy_berserker",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_berserker.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_berserker.8489c9b7e66b.webp"
+  },
+  {
+    "assetId": "img_enemy_blagothkus",
+    "legacyReference": "drawable:img_enemy_blagothkus",
+    "remoteReference": "media:img_enemy_blagothkus",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_blagothkus.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_blagothkus.14d1d439eaa7.webp"
+  },
+  {
+    "assetId": "img_enemy_bullywug",
+    "legacyReference": "drawable:img_enemy_bullywug",
+    "remoteReference": "media:img_enemy_bullywug",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_bullywug.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_bullywug.dbbfc10385d1.webp"
+  },
+  {
+    "assetId": "img_enemy_capitano_othelstan",
+    "legacyReference": "drawable:img_enemy_capitano_othelstan",
+    "remoteReference": "media:img_enemy_capitano_othelstan",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_capitano_othelstan.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_capitano_othelstan.f8bcdc447767.webp"
+  },
+  {
+    "assetId": "img_enemy_cavaliere",
+    "legacyReference": "drawable:img_enemy_cavaliere",
+    "remoteReference": "media:img_enemy_cavaliere",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_cavaliere.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_cavaliere.4f6571729c24.webp"
+  },
+  {
+    "assetId": "img_enemy_coccodrillo",
+    "legacyReference": "drawable:img_enemy_coccodrillo",
+    "remoteReference": "media:img_enemy_coccodrillo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_coccodrillo.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_coccodrillo.9f2548642485.webp"
+  },
+  {
+    "assetId": "img_enemy_coccodrillo_gigante",
+    "legacyReference": "drawable:img_enemy_coccodrillo_gigante",
+    "remoteReference": "media:img_enemy_coccodrillo_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_coccodrillo_gigante.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_coccodrillo_gigante.522f9221fddc.webp"
+  },
+  {
+    "assetId": "img_enemy_cultist",
+    "legacyReference": "drawable:img_enemy_cultist",
+    "remoteReference": "media:img_enemy_cultist",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_cultist.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_cultist.99234cb2a4e3.webp"
+  },
+  {
+    "assetId": "img_enemy_cumulo_strisciante",
+    "legacyReference": "drawable:img_enemy_cumulo_strisciante",
+    "remoteReference": "media:img_enemy_cumulo_strisciante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_cumulo_strisciante.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_cumulo_strisciante.fe664c12c251.webp"
+  },
+  {
+    "assetId": "img_enemy_doppelganger",
+    "legacyReference": "drawable:img_enemy_doppelganger",
+    "remoteReference": "media:img_enemy_doppelganger",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_doppelganger.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_doppelganger.837f1028cb98.webp"
+  },
+  {
+    "assetId": "img_enemy_drago_bianco_adulto",
+    "legacyReference": "drawable:img_enemy_drago_bianco_adulto",
+    "remoteReference": "media:img_enemy_drago_bianco_adulto",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_drago_bianco_adulto.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_drago_bianco_adulto.08931b79e318.webp"
+  },
+  {
+    "assetId": "img_enemy_dragola",
+    "legacyReference": "drawable:img_enemy_dragola",
+    "remoteReference": "media:img_enemy_dragola",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_dragola.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_dragola.9e07c6bdfcaa.webp"
+  },
+  {
+    "assetId": "img_enemy_dragonclaw",
+    "legacyReference": "drawable:img_enemy_dragonclaw",
+    "remoteReference": "media:img_enemy_dragonclaw",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_dragonclaw.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_dragonclaw.13d348479588.webp"
+  },
+  {
+    "assetId": "img_enemy_dralmorrer_borngray",
+    "legacyReference": "drawable:img_enemy_dralmorrer_borngray",
+    "remoteReference": "media:img_enemy_dralmorrer_borngray",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_dralmorrer_borngray.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_dralmorrer_borngray.7eb842ebf167.webp"
+  },
+  {
+    "assetId": "img_enemy_elariel_nailo",
+    "legacyReference": "drawable:img_enemy_elariel_nailo",
+    "remoteReference": "media:img_enemy_elariel_nailo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_elariel_nailo.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_elariel_nailo.f67edda47d02.webp"
+  },
+  {
+    "assetId": "img_enemy_esploratore",
+    "legacyReference": "drawable:img_enemy_esploratore",
+    "remoteReference": "media:img_enemy_esploratore",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_esploratore.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_esploratore.77b46eb3f666.webp"
+  },
+  {
+    "assetId": "img_enemy_ettercap",
+    "legacyReference": "drawable:img_enemy_ettercap",
+    "remoteReference": "media:img_enemy_ettercap",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_ettercap.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_ettercap.956ccdaedbe8.webp"
+  },
+  {
+    "assetId": "img_enemy_frulam_mondath",
+    "legacyReference": "drawable:img_enemy_frulam_mondath",
+    "remoteReference": "media:img_enemy_frulam_mondath",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_frulam_mondath.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_frulam_mondath.148e0e36d8dd.webp"
+  },
+  {
+    "assetId": "img_enemy_fuoco_fatuo",
+    "legacyReference": "drawable:img_enemy_fuoco_fatuo",
+    "remoteReference": "media:img_enemy_fuoco_fatuo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_fuoco_fatuo.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_fuoco_fatuo.b4abc660fef4.webp"
+  },
+  {
+    "assetId": "img_enemy_gargoyle",
+    "legacyReference": "drawable:img_enemy_gargoyle",
+    "remoteReference": "media:img_enemy_gargoyle",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_gargoyle.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_gargoyle.e695c9982602.webp"
+  },
+  {
+    "assetId": "img_enemy_garrik_rulven",
+    "legacyReference": "drawable:img_enemy_garrik_rulven",
+    "remoteReference": "media:img_enemy_garrik_rulven",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_garrik_rulven.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_garrik_rulven.1d1e53e3c312.webp"
+  },
+  {
+    "assetId": "img_enemy_giant_spider",
+    "legacyReference": "drawable:img_enemy_giant_spider",
+    "remoteReference": "media:img_enemy_giant_spider",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_giant_spider.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_giant_spider.73bc903668d9.webp"
+  },
+  {
+    "assetId": "img_enemy_gigante_delle_pietre",
+    "legacyReference": "drawable:img_enemy_gigante_delle_pietre",
+    "remoteReference": "media:img_enemy_gigante_delle_pietre",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_gigante_delle_pietre.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_gigante_delle_pietre.054560335de3.webp"
+  },
+  {
+    "assetId": "img_enemy_golem_di_pietra",
+    "legacyReference": "drawable:img_enemy_golem_di_pietra",
+    "remoteReference": "media:img_enemy_golem_di_pietra",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_golem_di_pietra.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_golem_di_pietra.50dba3f43fef.webp"
+  },
+  {
+    "assetId": "img_enemy_guard",
+    "legacyReference": "drawable:img_enemy_guard",
+    "remoteReference": "media:img_enemy_guard",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_guard.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_guard.a94a7a34d042.webp"
+  },
+  {
+    "assetId": "img_enemy_guard_drake",
+    "legacyReference": "drawable:img_enemy_guard_drake",
+    "remoteReference": "media:img_enemy_guard_drake",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_guard_drake.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_guard_drake.6113f07abcbb.webp"
+  },
+  {
+    "assetId": "img_enemy_hobgoblin",
+    "legacyReference": "drawable:img_enemy_hobgoblin",
+    "remoteReference": "media:img_enemy_hobgoblin",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_hobgoblin.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_hobgoblin.33e2f3ef017f.webp"
+  },
+  {
+    "assetId": "img_enemy_hobgoblin_capitano",
+    "legacyReference": "drawable:img_enemy_hobgoblin_capitano",
+    "remoteReference": "media:img_enemy_hobgoblin_capitano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_hobgoblin_capitano.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_hobgoblin_capitano.ffd12f760f6e.webp"
+  },
+  {
+    "assetId": "img_enemy_kaelen_dathar",
+    "legacyReference": "drawable:img_enemy_kaelen_dathar",
+    "remoteReference": "media:img_enemy_kaelen_dathar",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_kaelen_dathar.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_kaelen_dathar.b69cc80c44d1.webp"
+  },
+  {
+    "assetId": "img_enemy_kobold",
+    "legacyReference": "drawable:img_enemy_kobold",
+    "remoteReference": "media:img_enemy_kobold",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_kobold.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_kobold.fb61f08ba262.webp"
+  },
+  {
+    "assetId": "img_enemy_langdedrosa_cyanwrath",
+    "legacyReference": "drawable:img_enemy_langdedrosa_cyanwrath",
+    "remoteReference": "media:img_enemy_langdedrosa_cyanwrath",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_langdedrosa_cyanwrath.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_langdedrosa_cyanwrath.15d50773d573.webp"
+  },
+  {
+    "assetId": "img_enemy_lucertola_gigante",
+    "legacyReference": "drawable:img_enemy_lucertola_gigante",
+    "remoteReference": "media:img_enemy_lucertola_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_lucertola_gigante.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_lucertola_gigante.6da19f2d9411.webp"
+  },
+  {
+    "assetId": "img_enemy_lucertoloide",
+    "legacyReference": "drawable:img_enemy_lucertoloide",
+    "remoteReference": "media:img_enemy_lucertoloide",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_lucertoloide.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_lucertoloide.76b75cb88685.webp"
+  },
+  {
+    "assetId": "img_enemy_lucertoloide_sciamano",
+    "legacyReference": "drawable:img_enemy_lucertoloide_sciamano",
+    "remoteReference": "media:img_enemy_lucertoloide_sciamano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_lucertoloide_sciamano.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_lucertoloide_sciamano.75eaca647b59.webp"
+  },
+  {
+    "assetId": "img_enemy_mago",
+    "legacyReference": "drawable:img_enemy_mago",
+    "remoteReference": "media:img_enemy_mago",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_mago.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_mago.e572e991cfa6.webp"
+  },
+  {
+    "assetId": "img_enemy_melma_grigia",
+    "legacyReference": "drawable:img_enemy_melma_grigia",
+    "remoteReference": "media:img_enemy_melma_grigia",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_melma_grigia.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_melma_grigia.28b7a631657b.webp"
+  },
+  {
+    "assetId": "img_enemy_millepiedi_gigante",
+    "legacyReference": "drawable:img_enemy_millepiedi_gigante",
+    "remoteReference": "media:img_enemy_millepiedi_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_millepiedi_gigante.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_millepiedi_gigante.cf3c820d60f7.webp"
+  },
+  {
+    "assetId": "img_enemy_nobile",
+    "legacyReference": "drawable:img_enemy_nobile",
+    "remoteReference": "media:img_enemy_nobile",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_nobile.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_nobile.999d2d16ea97.webp"
+  },
+  {
+    "assetId": "img_enemy_ogre",
+    "legacyReference": "drawable:img_enemy_ogre",
+    "remoteReference": "media:img_enemy_ogre",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_ogre.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_ogre.69371704cca1.webp"
+  },
+  {
+    "assetId": "img_enemy_orrore_corazzato",
+    "legacyReference": "drawable:img_enemy_orrore_corazzato",
+    "remoteReference": "media:img_enemy_orrore_corazzato",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_orrore_corazzato.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_orrore_corazzato.815753e6e5fe.webp"
+  },
+  {
+    "assetId": "img_enemy_otyugh",
+    "legacyReference": "drawable:img_enemy_otyugh",
+    "remoteReference": "media:img_enemy_otyugh",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_otyugh.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_otyugh.db5453e735e8.webp"
+  },
+  {
+    "assetId": "img_enemy_peryton",
+    "legacyReference": "drawable:img_enemy_peryton",
+    "remoteReference": "media:img_enemy_peryton",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_peryton.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_peryton.8ecafb07839f.webp"
+  },
+  {
+    "assetId": "img_enemy_pharblex_spattergoo",
+    "legacyReference": "drawable:img_enemy_pharblex_spattergoo",
+    "remoteReference": "media:img_enemy_pharblex_spattergoo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_pharblex_spattergoo.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_pharblex_spattergoo.9b421f975052.webp"
+  },
+  {
+    "assetId": "img_enemy_rana_gigante",
+    "legacyReference": "drawable:img_enemy_rana_gigante",
+    "remoteReference": "media:img_enemy_rana_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_rana_gigante.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_rana_gigante.d7f112dcc2ad.webp"
+  },
+  {
+    "assetId": "img_enemy_rath_modar",
+    "legacyReference": "drawable:img_enemy_rath_modar",
+    "remoteReference": "media:img_enemy_rath_modar",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_rath_modar.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_rath_modar.a41c1b754ddf.webp"
+  },
+  {
+    "assetId": "img_enemy_rezmir",
+    "legacyReference": "drawable:img_enemy_rezmir",
+    "remoteReference": "media:img_enemy_rezmir",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_rezmir.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_rezmir.1e156851f5a2.webp"
+  },
+  {
+    "assetId": "img_enemy_roderic_thann",
+    "legacyReference": "drawable:img_enemy_roderic_thann",
+    "remoteReference": "media:img_enemy_roderic_thann",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_roderic_thann.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_roderic_thann.6755e1c9f059.webp"
+  },
+  {
+    "assetId": "img_enemy_roper",
+    "legacyReference": "drawable:img_enemy_roper",
+    "remoteReference": "media:img_enemy_roper",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_roper.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_roper.4c0c27ae6430.webp"
+  },
+  {
+    "assetId": "img_enemy_rospo_gigante",
+    "legacyReference": "drawable:img_enemy_rospo_gigante",
+    "remoteReference": "media:img_enemy_rospo_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_rospo_gigante.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_rospo_gigante.d83a730753a9.webp"
+  },
+  {
+    "assetId": "img_enemy_sciame_di_millepiedi",
+    "legacyReference": "drawable:img_enemy_sciame_di_millepiedi",
+    "remoteReference": "media:img_enemy_sciame_di_millepiedi",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_sciame_di_millepiedi.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_sciame_di_millepiedi.06228003a636.webp"
+  },
+  {
+    "assetId": "img_enemy_siren_ilvastarr",
+    "legacyReference": "drawable:img_enemy_siren_ilvastarr",
+    "remoteReference": "media:img_enemy_siren_ilvastarr",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_siren_ilvastarr.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_siren_ilvastarr.fa04ea45fc5f.webp"
+  },
+  {
+    "assetId": "img_enemy_spettro",
+    "legacyReference": "drawable:img_enemy_spettro",
+    "remoteReference": "media:img_enemy_spettro",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_spettro.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_spettro.1ce08226c815.webp"
+  },
+  {
+    "assetId": "img_enemy_stirge",
+    "legacyReference": "drawable:img_enemy_stirge",
+    "remoteReference": "media:img_enemy_stirge",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_stirge.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_stirge.7330f516d302.webp"
+  },
+  {
+    "assetId": "img_enemy_talis_la_bianca",
+    "legacyReference": "drawable:img_enemy_talis_la_bianca",
+    "remoteReference": "media:img_enemy_talis_la_bianca",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_talis_la_bianca.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_talis_la_bianca.9da4d1f3b315.webp"
+  },
+  {
+    "assetId": "img_enemy_troglodyte",
+    "legacyReference": "drawable:img_enemy_troglodyte",
+    "remoteReference": "media:img_enemy_troglodyte",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_troglodyte.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_troglodyte.b3f76c3b6d83.webp"
+  },
+  {
+    "assetId": "img_enemy_troll",
+    "legacyReference": "drawable:img_enemy_troll",
+    "remoteReference": "media:img_enemy_troll",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_troll.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_troll.5057ecd81d5d.webp"
+  },
+  {
+    "assetId": "img_enemy_troll_severed_arm",
+    "legacyReference": "drawable:img_enemy_troll_severed_arm",
+    "remoteReference": "media:img_enemy_troll_severed_arm",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_troll_severed_arm.png",
+    "stagedPath": "assets/monsters/full-body/img_enemy_troll_severed_arm.d80528062abd.png"
+  },
+  {
+    "assetId": "img_enemy_troll_severed_head",
+    "legacyReference": "drawable:img_enemy_troll_severed_head",
+    "remoteReference": "media:img_enemy_troll_severed_head",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_troll_severed_head.png",
+    "stagedPath": "assets/monsters/full-body/img_enemy_troll_severed_head.1b0c26b80373.png"
+  },
+  {
+    "assetId": "img_enemy_troll_severed_leg",
+    "legacyReference": "drawable:img_enemy_troll_severed_leg",
+    "remoteReference": "media:img_enemy_troll_severed_leg",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_troll_severed_leg.png",
+    "stagedPath": "assets/monsters/full-body/img_enemy_troll_severed_leg.6542b03d0806.png"
+  },
+  {
+    "assetId": "img_enemy_vermeiena",
+    "legacyReference": "drawable:img_enemy_vermeiena",
+    "remoteReference": "media:img_enemy_vermeiena",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_vermeiena.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_vermeiena.464bdcb3ee49.webp"
+  },
+  {
+    "assetId": "img_enemy_veyra_amcathra",
+    "legacyReference": "drawable:img_enemy_veyra_amcathra",
+    "remoteReference": "media:img_enemy_veyra_amcathra",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_veyra_amcathra.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_veyra_amcathra.50bc121b52ed.webp"
+  },
+  {
+    "assetId": "img_enemy_viverna",
+    "legacyReference": "drawable:img_enemy_viverna",
+    "remoteReference": "media:img_enemy_viverna",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_viverna.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_viverna.ffbee84e71b4.webp"
+  },
+  {
+    "assetId": "img_enemy_winged_kobold",
+    "legacyReference": "drawable:img_enemy_winged_kobold",
+    "remoteReference": "media:img_enemy_winged_kobold",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_winged_kobold.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_winged_kobold.d87a433d0835.webp"
+  },
+  {
+    "assetId": "img_enemy_yuan_ti_nefasto",
+    "legacyReference": "drawable:img_enemy_yuan_ti_nefasto",
+    "remoteReference": "media:img_enemy_yuan_ti_nefasto",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_yuan_ti_nefasto.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_yuan_ti_nefasto.8c0d968fd794.webp"
+  },
+  {
+    "assetId": "img_enemy_yuan_ti_sanguepuro",
+    "legacyReference": "drawable:img_enemy_yuan_ti_sanguepuro",
+    "remoteReference": "media:img_enemy_yuan_ti_sanguepuro",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_enemy_yuan_ti_sanguepuro.webp",
+    "stagedPath": "assets/monsters/full-body/img_enemy_yuan_ti_sanguepuro.63e2882045c3.webp"
+  },
+  {
+    "assetId": "img_location_baldurs_gate",
+    "legacyReference": "drawable:img_location_baldurs_gate",
+    "remoteReference": "media:img_location_baldurs_gate",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_baldurs_gate.webp",
+    "stagedPath": "assets/archive/img_location_baldurs_gate.23ad7608656d.webp"
+  },
+  {
+    "assetId": "img_location_black_antlers",
+    "legacyReference": "drawable:img_location_black_antlers",
+    "remoteReference": "media:img_location_black_antlers",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_black_antlers.webp",
+    "stagedPath": "assets/archive/img_location_black_antlers.45e0936abfe6.webp"
+  },
+  {
+    "assetId": "img_location_black_antlers_manifesto",
+    "legacyReference": "drawable:img_location_black_antlers_manifesto",
+    "remoteReference": "media:img_location_black_antlers_manifesto",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_black_antlers_manifesto.webp",
+    "stagedPath": "assets/archive/img_location_black_antlers_manifesto.7a9564ad906b.webp"
+  },
+  {
+    "assetId": "img_location_carnath",
+    "legacyReference": "drawable:img_location_carnath",
+    "remoteReference": "media:img_location_carnath",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_carnath.webp",
+    "stagedPath": "assets/archive/img_location_carnath.3c52196583d7.webp"
+  },
+  {
+    "assetId": "img_location_dragon_hatchery",
+    "legacyReference": "drawable:img_location_dragon_hatchery",
+    "remoteReference": "media:img_location_dragon_hatchery",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_dragon_hatchery.webp",
+    "stagedPath": "assets/archive/img_location_dragon_hatchery.3747200d04ff.webp"
+  },
+  {
+    "assetId": "img_location_elturel",
+    "legacyReference": "drawable:img_location_elturel",
+    "remoteReference": "media:img_location_elturel",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_elturel.webp",
+    "stagedPath": "assets/archive/img_location_elturel.3c0bfc71dd4a.webp"
+  },
+  {
+    "assetId": "img_location_greenest",
+    "legacyReference": "drawable:img_location_greenest",
+    "remoteReference": "media:img_location_greenest",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_greenest.webp",
+    "stagedPath": "assets/archive/img_location_greenest.cfeb79281a9a.webp"
+  },
+  {
+    "assetId": "img_location_raider_camp",
+    "legacyReference": "drawable:img_location_raider_camp",
+    "remoteReference": "media:img_location_raider_camp",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_raider_camp.webp",
+    "stagedPath": "assets/archive/img_location_raider_camp.4a60ff552b34.webp"
+  },
+  {
+    "assetId": "img_location_waterdeep",
+    "legacyReference": "drawable:img_location_waterdeep",
+    "remoteReference": "media:img_location_waterdeep",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_location_waterdeep.webp",
+    "stagedPath": "assets/archive/img_location_waterdeep.0fd8c3c0efcb.webp"
+  },
+  {
+    "assetId": "img_npc_achreny_ulyeltin",
+    "legacyReference": "drawable:img_npc_achreny_ulyeltin",
+    "remoteReference": "media:img_npc_achreny_ulyeltin",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_achreny_ulyeltin.webp",
+    "stagedPath": "assets/npcs/img_npc_achreny_ulyeltin.b3d5ea7b308b.webp"
+  },
+  {
+    "assetId": "img_npc_ackyn_selebon",
+    "legacyReference": "drawable:img_npc_ackyn_selebon",
+    "remoteReference": "media:img_npc_ackyn_selebon",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_ackyn_selebon.webp",
+    "stagedPath": "assets/npcs/img_npc_ackyn_selebon.a24e183b642f.webp"
+  },
+  {
+    "assetId": "img_npc_aerendil",
+    "legacyReference": "drawable:img_npc_aerendil",
+    "remoteReference": "media:img_npc_aerendil",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_aerendil.webp",
+    "stagedPath": "assets/npcs/img_npc_aerendil.972268eb54b4.webp"
+  },
+  {
+    "assetId": "img_npc_aldor_urnpoleshurst",
+    "legacyReference": "drawable:img_npc_aldor_urnpoleshurst",
+    "remoteReference": "media:img_npc_aldor_urnpoleshurst",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_aldor_urnpoleshurst.webp",
+    "stagedPath": "assets/npcs/img_npc_aldor_urnpoleshurst.4b82824b1e8e.webp"
+  },
+  {
+    "assetId": "img_npc_ardred_briferhew",
+    "legacyReference": "drawable:img_npc_ardred_briferhew",
+    "remoteReference": "media:img_npc_ardred_briferhew",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_ardred_briferhew.webp",
+    "stagedPath": "assets/npcs/img_npc_ardred_briferhew.839a049fcd93.webp"
+  },
+  {
+    "assetId": "img_npc_azbara_jos",
+    "legacyReference": "drawable:img_npc_azbara_jos",
+    "remoteReference": "media:img_npc_azbara_jos",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_azbara_jos.webp",
+    "stagedPath": "assets/npcs/img_npc_azbara_jos.557766a3308f.webp"
+  },
+  {
+    "assetId": "img_npc_beyd_sechepol",
+    "legacyReference": "drawable:img_npc_beyd_sechepol",
+    "remoteReference": "media:img_npc_beyd_sechepol",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_beyd_sechepol.webp",
+    "stagedPath": "assets/npcs/img_npc_beyd_sechepol.9c2eb89fa383.webp"
+  },
+  {
+    "assetId": "img_npc_bog_luck",
+    "legacyReference": "drawable:img_npc_bog_luck",
+    "remoteReference": "media:img_npc_bog_luck",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_bog_luck.webp",
+    "stagedPath": "assets/npcs/img_npc_bog_luck.3d3bf20c9149.webp"
+  },
+  {
+    "assetId": "img_npc_bruce",
+    "legacyReference": "drawable:img_npc_bruce",
+    "remoteReference": "media:img_npc_bruce",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_bruce.webp",
+    "stagedPath": "assets/npcs/img_npc_bruce.d1518384519d.webp"
+  },
+  {
+    "assetId": "img_npc_edhelri_lewel",
+    "legacyReference": "drawable:img_npc_edhelri_lewel",
+    "remoteReference": "media:img_npc_edhelri_lewel",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_edhelri_lewel.webp",
+    "stagedPath": "assets/npcs/img_npc_edhelri_lewel.4afd5ab2bc37.webp"
+  },
+  {
+    "assetId": "img_npc_eldkin_agetul",
+    "legacyReference": "drawable:img_npc_eldkin_agetul",
+    "remoteReference": "media:img_npc_eldkin_agetul",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_eldkin_agetul.webp",
+    "stagedPath": "assets/npcs/img_npc_eldkin_agetul.f15d100a22bb.webp"
+  },
+  {
+    "assetId": "img_npc_enom_tobun",
+    "legacyReference": "drawable:img_npc_enom_tobun",
+    "remoteReference": "media:img_npc_enom_tobun",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_enom_tobun.webp",
+    "stagedPath": "assets/npcs/img_npc_enom_tobun.6544bcd8c5d7.webp"
+  },
+  {
+    "assetId": "img_npc_escobert",
+    "legacyReference": "drawable:img_npc_escobert",
+    "remoteReference": "media:img_npc_escobert",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_escobert.webp",
+    "stagedPath": "assets/npcs/img_npc_escobert.19e586b5d792.webp"
+  },
+  {
+    "assetId": "img_npc_governor_nighthill",
+    "legacyReference": "drawable:img_npc_governor_nighthill",
+    "remoteReference": "media:img_npc_governor_nighthill",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_governor_nighthill.webp",
+    "stagedPath": "assets/npcs/img_npc_governor_nighthill.7f26c99fad54.webp"
+  },
+  {
+    "assetId": "img_npc_imsa_the_green",
+    "legacyReference": "drawable:img_npc_imsa_the_green",
+    "remoteReference": "media:img_npc_imsa_the_green",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_imsa_the_green.webp",
+    "stagedPath": "assets/npcs/img_npc_imsa_the_green.0c930de36740.webp"
+  },
+  {
+    "assetId": "img_npc_jamna_gleamsilver",
+    "legacyReference": "drawable:img_npc_jamna_gleamsilver",
+    "remoteReference": "media:img_npc_jamna_gleamsilver",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_jamna_gleamsilver.webp",
+    "stagedPath": "assets/npcs/img_npc_jamna_gleamsilver.d4df91ff8cf0.webp"
+  },
+  {
+    "assetId": "img_npc_lai_angesstun",
+    "legacyReference": "drawable:img_npc_lai_angesstun",
+    "remoteReference": "media:img_npc_lai_angesstun",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_lai_angesstun.webp",
+    "stagedPath": "assets/npcs/img_npc_lai_angesstun.829aa0410b89.webp"
+  },
+  {
+    "assetId": "img_npc_larion_keenblade",
+    "legacyReference": "drawable:img_npc_larion_keenblade",
+    "remoteReference": "media:img_npc_larion_keenblade",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_larion_keenblade.webp",
+    "stagedPath": "assets/npcs/img_npc_larion_keenblade.cf3d9414d8a6.webp"
+  },
+  {
+    "assetId": "img_npc_lasfelro_the_silent",
+    "legacyReference": "drawable:img_npc_lasfelro_the_silent",
+    "remoteReference": "media:img_npc_lasfelro_the_silent",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_lasfelro_the_silent.webp",
+    "stagedPath": "assets/npcs/img_npc_lasfelro_the_silent.9f24cbea1bd6.webp"
+  },
+  {
+    "assetId": "img_npc_leda_widris",
+    "legacyReference": "drawable:img_npc_leda_widris",
+    "remoteReference": "media:img_npc_leda_widris",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_leda_widris.webp",
+    "stagedPath": "assets/npcs/img_npc_leda_widris.730cc9fc3b99.webp"
+  },
+  {
+    "assetId": "img_npc_leosin",
+    "legacyReference": "drawable:img_npc_leosin",
+    "remoteReference": "media:img_npc_leosin",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_leosin.webp",
+    "stagedPath": "assets/npcs/img_npc_leosin.c7351ae8930f.webp"
+  },
+  {
+    "assetId": "img_npc_losvius_longnose",
+    "legacyReference": "drawable:img_npc_losvius_longnose",
+    "remoteReference": "media:img_npc_losvius_longnose",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_losvius_longnose.webp",
+    "stagedPath": "assets/npcs/img_npc_losvius_longnose.f79289bbc3a9.webp"
+  },
+  {
+    "assetId": "img_npc_noohar_serelim",
+    "legacyReference": "drawable:img_npc_noohar_serelim",
+    "remoteReference": "media:img_npc_noohar_serelim",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_noohar_serelim.webp",
+    "stagedPath": "assets/npcs/img_npc_noohar_serelim.913a6d3f443d.webp"
+  },
+  {
+    "assetId": "img_npc_nyerhite_verther",
+    "legacyReference": "drawable:img_npc_nyerhite_verther",
+    "remoteReference": "media:img_npc_nyerhite_verther",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_nyerhite_verther.webp",
+    "stagedPath": "assets/npcs/img_npc_nyerhite_verther.b5cc012c4178.webp"
+  },
+  {
+    "assetId": "img_npc_ontharr_frume",
+    "legacyReference": "drawable:img_npc_ontharr_frume",
+    "remoteReference": "media:img_npc_ontharr_frume",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_ontharr_frume.webp",
+    "stagedPath": "assets/npcs/img_npc_ontharr_frume.200cb74131e6.webp"
+  },
+  {
+    "assetId": "img_npc_orvustia_esseren",
+    "legacyReference": "drawable:img_npc_orvustia_esseren",
+    "remoteReference": "media:img_npc_orvustia_esseren",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_orvustia_esseren.webp",
+    "stagedPath": "assets/npcs/img_npc_orvustia_esseren.a3e612e30a1d.webp"
+  },
+  {
+    "assetId": "img_npc_oyn_evenmor",
+    "legacyReference": "drawable:img_npc_oyn_evenmor",
+    "remoteReference": "media:img_npc_oyn_evenmor",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_oyn_evenmor.webp",
+    "stagedPath": "assets/npcs/img_npc_oyn_evenmor.caa7014e8ad2.webp"
+  },
+  {
+    "assetId": "img_npc_pete_carnedura",
+    "legacyReference": "drawable:img_npc_pete_carnedura",
+    "remoteReference": "media:img_npc_pete_carnedura",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_pete_carnedura.webp",
+    "stagedPath": "assets/npcs/img_npc_pete_carnedura.df3aa6985acf.webp"
+  },
+  {
+    "assetId": "img_npc_radecere_perethun",
+    "legacyReference": "drawable:img_npc_radecere_perethun",
+    "remoteReference": "media:img_npc_radecere_perethun",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_radecere_perethun.webp",
+    "stagedPath": "assets/npcs/img_npc_radecere_perethun.61153f82f869.webp"
+  },
+  {
+    "assetId": "img_npc_samardag_the_hoper",
+    "legacyReference": "drawable:img_npc_samardag_the_hoper",
+    "remoteReference": "media:img_npc_samardag_the_hoper",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_samardag_the_hoper.webp",
+    "stagedPath": "assets/npcs/img_npc_samardag_the_hoper.a1860d57cb80.webp"
+  },
+  {
+    "assetId": "img_npc_selvek_serelim",
+    "legacyReference": "drawable:img_npc_selvek_serelim",
+    "remoteReference": "media:img_npc_selvek_serelim",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_selvek_serelim.webp",
+    "stagedPath": "assets/npcs/img_npc_selvek_serelim.913a6d3f443d.webp"
+  },
+  {
+    "assetId": "img_npc_sulesdeg_the_pole",
+    "legacyReference": "drawable:img_npc_sulesdeg_the_pole",
+    "remoteReference": "media:img_npc_sulesdeg_the_pole",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_sulesdeg_the_pole.webp",
+    "stagedPath": "assets/npcs/img_npc_sulesdeg_the_pole.9838cd86dbaa.webp"
+  },
+  {
+    "assetId": "img_npc_tordek",
+    "legacyReference": "drawable:img_npc_tordek",
+    "remoteReference": "media:img_npc_tordek",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_tordek.webp",
+    "stagedPath": "assets/npcs/img_npc_tordek.2cda169e6c85.webp"
+  },
+  {
+    "assetId": "img_npc_tyjit_skesh",
+    "legacyReference": "drawable:img_npc_tyjit_skesh",
+    "remoteReference": "media:img_npc_tyjit_skesh",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_tyjit_skesh.webp",
+    "stagedPath": "assets/npcs/img_npc_tyjit_skesh.8eb478ee9144.webp"
+  },
+  {
+    "assetId": "img_npc_werond_torohar",
+    "legacyReference": "drawable:img_npc_werond_torohar",
+    "remoteReference": "media:img_npc_werond_torohar",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_werond_torohar.webp",
+    "stagedPath": "assets/npcs/img_npc_werond_torohar.41bd8cf6b7cf.webp"
+  },
+  {
+    "assetId": "img_npc_wump",
+    "legacyReference": "drawable:img_npc_wump",
+    "remoteReference": "media:img_npc_wump",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_npc_wump.webp",
+    "stagedPath": "assets/npcs/img_npc_wump.d711cb7798bc.webp"
+  },
+  {
+    "assetId": "img_player_asdrubale_losurdos",
+    "legacyReference": "drawable:img_player_asdrubale_losurdos",
+    "remoteReference": "media:img_player_asdrubale_losurdos",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_player_asdrubale_losurdos.webp",
+    "stagedPath": "assets/players/img_player_asdrubale_losurdos.c87416c301a6.webp"
+  },
+  {
+    "assetId": "img_player_igris_eenees",
+    "legacyReference": "drawable:img_player_igris_eenees",
+    "remoteReference": "media:img_player_igris_eenees",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_player_igris_eenees.webp",
+    "stagedPath": "assets/players/img_player_igris_eenees.79ce4e245bb0.webp"
+  },
+  {
+    "assetId": "img_player_kart_olin",
+    "legacyReference": "drawable:img_player_kart_olin",
+    "remoteReference": "media:img_player_kart_olin",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_player_kart_olin.webp",
+    "stagedPath": "assets/players/img_player_kart_olin.7c88b6214485.webp"
+  },
+  {
+    "assetId": "img_player_umbrean_kona",
+    "legacyReference": "drawable:img_player_umbrean_kona",
+    "remoteReference": "media:img_player_umbrean_kona",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_player_umbrean_kona.webp",
+    "stagedPath": "assets/players/img_player_umbrean_kona.27df3c82aac8.webp"
+  },
+  {
+    "assetId": "img_symbol_black_network",
+    "legacyReference": "drawable:img_symbol_black_network",
+    "remoteReference": "media:img_symbol_black_network",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_symbol_black_network.webp",
+    "stagedPath": "assets/symbols/img_symbol_black_network.39479ee33511.webp"
+  },
+  {
+    "assetId": "img_symbol_cult_dragon",
+    "legacyReference": "drawable:img_symbol_cult_dragon",
+    "remoteReference": "media:img_symbol_cult_dragon",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_symbol_cult_dragon.webp",
+    "stagedPath": "assets/symbols/img_symbol_cult_dragon.f22e22f1b456.webp"
+  },
+  {
+    "assetId": "img_symbol_harpers",
+    "legacyReference": "drawable:img_symbol_harpers",
+    "remoteReference": "media:img_symbol_harpers",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_symbol_harpers.webp",
+    "stagedPath": "assets/symbols/img_symbol_harpers.723cd9c251c1.webp"
+  },
+  {
+    "assetId": "img_symbol_order_gauntlet",
+    "legacyReference": "drawable:img_symbol_order_gauntlet",
+    "remoteReference": "media:img_symbol_order_gauntlet",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_symbol_order_gauntlet.webp",
+    "stagedPath": "assets/symbols/img_symbol_order_gauntlet.ae1d04a32e0a.webp"
+  },
+  {
+    "assetId": "img_symbol_red_wizards",
+    "legacyReference": "drawable:img_symbol_red_wizards",
+    "remoteReference": "media:img_symbol_red_wizards",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_symbol_red_wizards.webp",
+    "stagedPath": "assets/symbols/img_symbol_red_wizards.d6f84b775919.webp"
+  },
+  {
+    "assetId": "img_symbol_tiamat",
+    "legacyReference": "drawable:img_symbol_tiamat",
+    "remoteReference": "media:img_symbol_tiamat",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\img_symbol_tiamat.webp",
+    "stagedPath": "assets/symbols/img_symbol_tiamat.9fe9d66d93c4.webp"
+  },
+  {
+    "assetId": "map_baldurs_gate_player",
+    "legacyReference": "drawable:map_baldurs_gate_player",
+    "remoteReference": "media:map_baldurs_gate_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_baldurs_gate_player.webp",
+    "stagedPath": "assets/maps/map_baldurs_gate_player.09c2e2b5b09c.webp"
+  },
+  {
+    "assetId": "map_black_antlers_annex_basement",
+    "legacyReference": "drawable:map_black_antlers_annex_basement",
+    "remoteReference": "media:map_black_antlers_annex_basement",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_black_antlers_annex_basement.webp",
+    "stagedPath": "assets/maps/map_black_antlers_annex_basement.90163e834182.webp"
+  },
+  {
+    "assetId": "map_black_antlers_annex_ground",
+    "legacyReference": "drawable:map_black_antlers_annex_ground",
+    "remoteReference": "media:map_black_antlers_annex_ground",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_black_antlers_annex_ground.webp",
+    "stagedPath": "assets/maps/map_black_antlers_annex_ground.9ab66b7ff02e.webp"
+  },
+  {
+    "assetId": "map_black_antlers_main_basement",
+    "legacyReference": "drawable:map_black_antlers_main_basement",
+    "remoteReference": "media:map_black_antlers_main_basement",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_black_antlers_main_basement.webp",
+    "stagedPath": "assets/maps/map_black_antlers_main_basement.0bb4c72c24f7.webp"
+  },
+  {
+    "assetId": "map_black_antlers_main_ground",
+    "legacyReference": "drawable:map_black_antlers_main_ground",
+    "remoteReference": "media:map_black_antlers_main_ground",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_black_antlers_main_ground.webp",
+    "stagedPath": "assets/maps/map_black_antlers_main_ground.5841e836964d.webp"
+  },
+  {
+    "assetId": "map_black_antlers_main_upper",
+    "legacyReference": "drawable:map_black_antlers_main_upper",
+    "remoteReference": "media:map_black_antlers_main_upper",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_black_antlers_main_upper.webp",
+    "stagedPath": "assets/maps/map_black_antlers_main_upper.cf5f82fd94c4.webp"
+  },
+  {
+    "assetId": "map_carnath_first_floor_player",
+    "legacyReference": "drawable:map_carnath_first_floor_player",
+    "remoteReference": "media:map_carnath_first_floor_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_carnath_first_floor_player.webp",
+    "stagedPath": "assets/maps/map_carnath_first_floor_player.06afd09742e4.webp"
+  },
+  {
+    "assetId": "map_carnath_ground_floor_player",
+    "legacyReference": "drawable:map_carnath_ground_floor_player",
+    "remoteReference": "media:map_carnath_ground_floor_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_carnath_ground_floor_player.webp",
+    "stagedPath": "assets/maps/map_carnath_ground_floor_player.e96ded7464b3.webp"
+  },
+  {
+    "assetId": "map_dragon_hatchery_player",
+    "legacyReference": "drawable:map_dragon_hatchery_player",
+    "remoteReference": "media:map_dragon_hatchery_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_dragon_hatchery_player.webp",
+    "stagedPath": "assets/maps/map_dragon_hatchery_player.1fbf7e856770.webp"
+  },
+  {
+    "assetId": "map_elturel_player",
+    "legacyReference": "drawable:map_elturel_player",
+    "remoteReference": "media:map_elturel_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_elturel_player.webp",
+    "stagedPath": "assets/maps/map_elturel_player.d4678382c7e7.webp"
+  },
+  {
+    "assetId": "map_elturel_quartieri_player",
+    "legacyReference": "drawable:map_elturel_quartieri_player",
+    "remoteReference": "media:map_elturel_quartieri_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_elturel_quartieri_player.webp",
+    "stagedPath": "assets/maps/map_elturel_quartieri_player.416ca24b66e4.webp"
+  },
+  {
+    "assetId": "map_greenest_player",
+    "legacyReference": "drawable:map_greenest_player",
+    "remoteReference": "media:map_greenest_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_greenest_player.webp",
+    "stagedPath": "assets/maps/map_greenest_player.198f6b5e6114.webp"
+  },
+  {
+    "assetId": "map_raider_camp_player",
+    "legacyReference": "drawable:map_raider_camp_player",
+    "remoteReference": "media:map_raider_camp_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_raider_camp_player.webp",
+    "stagedPath": "assets/maps/map_raider_camp_player.949fb1e30ebf.webp"
+  },
+  {
+    "assetId": "map_waterdeep_player",
+    "legacyReference": "drawable:map_waterdeep_player",
+    "remoteReference": "media:map_waterdeep_player",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\map_waterdeep_player.webp",
+    "stagedPath": "assets/maps/map_waterdeep_player.941f97979571.webp"
+  },
+  {
+    "assetId": "monster_accolito",
+    "legacyReference": "drawable:monster_accolito",
+    "remoteReference": "media:monster_accolito",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_accolito.webp",
+    "stagedPath": "assets/monsters/portraits/monster_accolito.fbb26c394119.webp"
+  },
+  {
+    "assetId": "monster_aldric_sorn",
+    "legacyReference": "drawable:monster_aldric_sorn",
+    "remoteReference": "media:monster_aldric_sorn",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_aldric_sorn.webp",
+    "stagedPath": "assets/monsters/portraits/monster_aldric_sorn.4fc59551afc7.webp"
+  },
+  {
+    "assetId": "monster_azbara_jos",
+    "legacyReference": "drawable:monster_azbara_jos",
+    "remoteReference": "media:monster_azbara_jos",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_azbara_jos.webp",
+    "stagedPath": "assets/monsters/portraits/monster_azbara_jos.236cb3af840d.webp"
+  },
+  {
+    "assetId": "monster_berserker",
+    "legacyReference": "drawable:monster_berserker",
+    "remoteReference": "media:monster_berserker",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_berserker.webp",
+    "stagedPath": "assets/monsters/portraits/monster_berserker.a232638cbb96.webp"
+  },
+  {
+    "assetId": "monster_blagothkus",
+    "legacyReference": "drawable:monster_blagothkus",
+    "remoteReference": "media:monster_blagothkus",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_blagothkus.webp",
+    "stagedPath": "assets/monsters/portraits/monster_blagothkus.7f77a20eeef3.webp"
+  },
+  {
+    "assetId": "monster_bullywug",
+    "legacyReference": "drawable:monster_bullywug",
+    "remoteReference": "media:monster_bullywug",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_bullywug.webp",
+    "stagedPath": "assets/monsters/portraits/monster_bullywug.5810e12f6413.webp"
+  },
+  {
+    "assetId": "monster_capitano_othelstan",
+    "legacyReference": "drawable:monster_capitano_othelstan",
+    "remoteReference": "media:monster_capitano_othelstan",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_capitano_othelstan.webp",
+    "stagedPath": "assets/monsters/portraits/monster_capitano_othelstan.8f52ac0abb40.webp"
+  },
+  {
+    "assetId": "monster_cavaliere",
+    "legacyReference": "drawable:monster_cavaliere",
+    "remoteReference": "media:monster_cavaliere",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_cavaliere.webp",
+    "stagedPath": "assets/monsters/portraits/monster_cavaliere.9b6b6a7103a9.webp"
+  },
+  {
+    "assetId": "monster_coboldo",
+    "legacyReference": "drawable:monster_coboldo",
+    "remoteReference": "media:monster_coboldo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_coboldo.webp",
+    "stagedPath": "assets/monsters/portraits/monster_coboldo.0de7d46e7cdb.webp"
+  },
+  {
+    "assetId": "monster_coboldo_alato",
+    "legacyReference": "drawable:monster_coboldo_alato",
+    "remoteReference": "media:monster_coboldo_alato",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_coboldo_alato.webp",
+    "stagedPath": "assets/monsters/portraits/monster_coboldo_alato.b943dd559820.webp"
+  },
+  {
+    "assetId": "monster_coccodrillo",
+    "legacyReference": "drawable:monster_coccodrillo",
+    "remoteReference": "media:monster_coccodrillo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_coccodrillo.webp",
+    "stagedPath": "assets/monsters/portraits/monster_coccodrillo.91be113ab498.webp"
+  },
+  {
+    "assetId": "monster_coccodrillo_gigante",
+    "legacyReference": "drawable:monster_coccodrillo_gigante",
+    "remoteReference": "media:monster_coccodrillo_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_coccodrillo_gigante.webp",
+    "stagedPath": "assets/monsters/portraits/monster_coccodrillo_gigante.f28c2107d83c.webp"
+  },
+  {
+    "assetId": "monster_cultista",
+    "legacyReference": "drawable:monster_cultista",
+    "remoteReference": "media:monster_cultista",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_cultista.webp",
+    "stagedPath": "assets/monsters/portraits/monster_cultista.d19b98e311b2.webp"
+  },
+  {
+    "assetId": "monster_cumulo_strisciante",
+    "legacyReference": "drawable:monster_cumulo_strisciante",
+    "remoteReference": "media:monster_cumulo_strisciante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_cumulo_strisciante.webp",
+    "stagedPath": "assets/monsters/portraits/monster_cumulo_strisciante.43773da293c9.webp"
+  },
+  {
+    "assetId": "monster_doppelganger",
+    "legacyReference": "drawable:monster_doppelganger",
+    "remoteReference": "media:monster_doppelganger",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_doppelganger.webp",
+    "stagedPath": "assets/monsters/portraits/monster_doppelganger.efbd25fd485b.webp"
+  },
+  {
+    "assetId": "monster_drago_assaltatore",
+    "legacyReference": "drawable:monster_drago_assaltatore",
+    "remoteReference": "media:monster_drago_assaltatore",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_drago_assaltatore.webp",
+    "stagedPath": "assets/monsters/portraits/monster_drago_assaltatore.af60ad7d32fc.webp"
+  },
+  {
+    "assetId": "monster_drago_bianco_adulto",
+    "legacyReference": "drawable:monster_drago_bianco_adulto",
+    "remoteReference": "media:monster_drago_bianco_adulto",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_drago_bianco_adulto.webp",
+    "stagedPath": "assets/monsters/portraits/monster_drago_bianco_adulto.76d4854ab044.webp"
+  },
+  {
+    "assetId": "monster_drago_blu_giovane",
+    "legacyReference": "drawable:monster_drago_blu_giovane",
+    "remoteReference": "media:monster_drago_blu_giovane",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_drago_blu_giovane.webp",
+    "stagedPath": "assets/monsters/portraits/monster_drago_blu_giovane.128bc4f265ce.webp"
+  },
+  {
+    "assetId": "monster_drago_guardiano",
+    "legacyReference": "drawable:monster_drago_guardiano",
+    "remoteReference": "media:monster_drago_guardiano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_drago_guardiano.webp",
+    "stagedPath": "assets/monsters/portraits/monster_drago_guardiano.29912be610f7.webp"
+  },
+  {
+    "assetId": "monster_dragoartiglio",
+    "legacyReference": "drawable:monster_dragoartiglio",
+    "remoteReference": "media:monster_dragoartiglio",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_dragoartiglio.webp",
+    "stagedPath": "assets/monsters/portraits/monster_dragoartiglio.88e64775029a.webp"
+  },
+  {
+    "assetId": "monster_dragola",
+    "legacyReference": "drawable:monster_dragola",
+    "remoteReference": "media:monster_dragola",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_dragola.webp",
+    "stagedPath": "assets/monsters/portraits/monster_dragola.0859c248ac7f.webp"
+  },
+  {
+    "assetId": "monster_dralmorrer_borngray",
+    "legacyReference": "drawable:monster_dralmorrer_borngray",
+    "remoteReference": "media:monster_dralmorrer_borngray",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_dralmorrer_borngray.webp",
+    "stagedPath": "assets/monsters/portraits/monster_dralmorrer_borngray.e99c33dc4762.webp"
+  },
+  {
+    "assetId": "monster_elariel_nailo",
+    "legacyReference": "drawable:monster_elariel_nailo",
+    "remoteReference": "media:monster_elariel_nailo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_elariel_nailo.webp",
+    "stagedPath": "assets/monsters/portraits/monster_elariel_nailo.d7f04ec4e3c0.webp"
+  },
+  {
+    "assetId": "monster_esploratore",
+    "legacyReference": "drawable:monster_esploratore",
+    "remoteReference": "media:monster_esploratore",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_esploratore.webp",
+    "stagedPath": "assets/monsters/portraits/monster_esploratore.4a5bd3fcda63.webp"
+  },
+  {
+    "assetId": "monster_ettercap",
+    "legacyReference": "drawable:monster_ettercap",
+    "remoteReference": "media:monster_ettercap",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_ettercap.webp",
+    "stagedPath": "assets/monsters/portraits/monster_ettercap.b0e176e258c8.webp"
+  },
+  {
+    "assetId": "monster_frulam_mondath",
+    "legacyReference": "drawable:monster_frulam_mondath",
+    "remoteReference": "media:monster_frulam_mondath",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_frulam_mondath.webp",
+    "stagedPath": "assets/monsters/portraits/monster_frulam_mondath.958b9ba79770.webp"
+  },
+  {
+    "assetId": "monster_fuoco_fatuo",
+    "legacyReference": "drawable:monster_fuoco_fatuo",
+    "remoteReference": "media:monster_fuoco_fatuo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_fuoco_fatuo.webp",
+    "stagedPath": "assets/monsters/portraits/monster_fuoco_fatuo.1af59d4f8621.webp"
+  },
+  {
+    "assetId": "monster_fustigatore",
+    "legacyReference": "drawable:monster_fustigatore",
+    "remoteReference": "media:monster_fustigatore",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_fustigatore.webp",
+    "stagedPath": "assets/monsters/portraits/monster_fustigatore.0d70cdf28c03.webp"
+  },
+  {
+    "assetId": "monster_gargoyle",
+    "legacyReference": "drawable:monster_gargoyle",
+    "remoteReference": "media:monster_gargoyle",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_gargoyle.webp",
+    "stagedPath": "assets/monsters/portraits/monster_gargoyle.93d5d2c255c7.webp"
+  },
+  {
+    "assetId": "monster_garrik_rulven",
+    "legacyReference": "drawable:monster_garrik_rulven",
+    "remoteReference": "media:monster_garrik_rulven",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_garrik_rulven.webp",
+    "stagedPath": "assets/monsters/portraits/monster_garrik_rulven.a9bbe7bea938.webp"
+  },
+  {
+    "assetId": "monster_gigante_delle_pietre",
+    "legacyReference": "drawable:monster_gigante_delle_pietre",
+    "remoteReference": "media:monster_gigante_delle_pietre",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_gigante_delle_pietre.webp",
+    "stagedPath": "assets/monsters/portraits/monster_gigante_delle_pietre.88b191010f2d.webp"
+  },
+  {
+    "assetId": "monster_gladiatore",
+    "legacyReference": "drawable:monster_gladiatore",
+    "remoteReference": "media:monster_gladiatore",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_gladiatore.webp",
+    "stagedPath": "assets/monsters/portraits/monster_gladiatore.e3423723d109.webp"
+  },
+  {
+    "assetId": "monster_golem_di_pietra",
+    "legacyReference": "drawable:monster_golem_di_pietra",
+    "remoteReference": "media:monster_golem_di_pietra",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_golem_di_pietra.webp",
+    "stagedPath": "assets/monsters/portraits/monster_golem_di_pietra.b2ef9f098aa6.webp"
+  },
+  {
+    "assetId": "monster_guardia",
+    "legacyReference": "drawable:monster_guardia",
+    "remoteReference": "media:monster_guardia",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_guardia.webp",
+    "stagedPath": "assets/monsters/portraits/monster_guardia.c5f913d9a2f4.webp"
+  },
+  {
+    "assetId": "monster_hobgoblin",
+    "legacyReference": "drawable:monster_hobgoblin",
+    "remoteReference": "media:monster_hobgoblin",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_hobgoblin.webp",
+    "stagedPath": "assets/monsters/portraits/monster_hobgoblin.0e0f6c6111b7.webp"
+  },
+  {
+    "assetId": "monster_hobgoblin_capitano",
+    "legacyReference": "drawable:monster_hobgoblin_capitano",
+    "remoteReference": "media:monster_hobgoblin_capitano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_hobgoblin_capitano.webp",
+    "stagedPath": "assets/monsters/portraits/monster_hobgoblin_capitano.da7b61de46d1.webp"
+  },
+  {
+    "assetId": "monster_hobgoblin_signore_della_guerra",
+    "legacyReference": "drawable:monster_hobgoblin_signore_della_guerra",
+    "remoteReference": "media:monster_hobgoblin_signore_della_guerra",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_hobgoblin_signore_della_guerra.webp",
+    "stagedPath": "assets/monsters/portraits/monster_hobgoblin_signore_della_guerra.1549386d89e0.webp"
+  },
+  {
+    "assetId": "monster_jamna_gleamsilver",
+    "legacyReference": "drawable:monster_jamna_gleamsilver",
+    "remoteReference": "media:monster_jamna_gleamsilver",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_jamna_gleamsilver.webp",
+    "stagedPath": "assets/monsters/portraits/monster_jamna_gleamsilver.d0e398084491.webp"
+  },
+  {
+    "assetId": "monster_kaelen_dathar",
+    "legacyReference": "drawable:monster_kaelen_dathar",
+    "remoteReference": "media:monster_kaelen_dathar",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_kaelen_dathar.webp",
+    "stagedPath": "assets/monsters/portraits/monster_kaelen_dathar.35ab0717704f.webp"
+  },
+  {
+    "assetId": "monster_langdedrosa_cyanwrath",
+    "legacyReference": "drawable:monster_langdedrosa_cyanwrath",
+    "remoteReference": "media:monster_langdedrosa_cyanwrath",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_langdedrosa_cyanwrath.webp",
+    "stagedPath": "assets/monsters/portraits/monster_langdedrosa_cyanwrath.f36dbcc3122a.webp"
+  },
+  {
+    "assetId": "monster_lucertola_gigante",
+    "legacyReference": "drawable:monster_lucertola_gigante",
+    "remoteReference": "media:monster_lucertola_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_lucertola_gigante.webp",
+    "stagedPath": "assets/monsters/portraits/monster_lucertola_gigante.81fff729dd9d.webp"
+  },
+  {
+    "assetId": "monster_lucertoloide",
+    "legacyReference": "drawable:monster_lucertoloide",
+    "remoteReference": "media:monster_lucertoloide",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_lucertoloide.webp",
+    "stagedPath": "assets/monsters/portraits/monster_lucertoloide.d5c91e24d382.webp"
+  },
+  {
+    "assetId": "monster_lucertoloide_sciamano",
+    "legacyReference": "drawable:monster_lucertoloide_sciamano",
+    "remoteReference": "media:monster_lucertoloide_sciamano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_lucertoloide_sciamano.webp",
+    "stagedPath": "assets/monsters/portraits/monster_lucertoloide_sciamano.b0f088cb5b69.webp"
+  },
+  {
+    "assetId": "monster_mago",
+    "legacyReference": "drawable:monster_mago",
+    "remoteReference": "media:monster_mago",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_mago.webp",
+    "stagedPath": "assets/monsters/portraits/monster_mago.95739c6905e0.webp"
+  },
+  {
+    "assetId": "monster_manticora",
+    "legacyReference": "drawable:monster_manticora",
+    "remoteReference": "media:monster_manticora",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_manticora.webp",
+    "stagedPath": "assets/monsters/portraits/monster_manticora.0f8f4c043aac.webp"
+  },
+  {
+    "assetId": "monster_melma_grigia",
+    "legacyReference": "drawable:monster_melma_grigia",
+    "remoteReference": "media:monster_melma_grigia",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_melma_grigia.webp",
+    "stagedPath": "assets/monsters/portraits/monster_melma_grigia.50d3c1962742.webp"
+  },
+  {
+    "assetId": "monster_millepiedi_gigante",
+    "legacyReference": "drawable:monster_millepiedi_gigante",
+    "remoteReference": "media:monster_millepiedi_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_millepiedi_gigante.webp",
+    "stagedPath": "assets/monsters/portraits/monster_millepiedi_gigante.6f56a4d4d1f9.webp"
+  },
+  {
+    "assetId": "monster_nobile",
+    "legacyReference": "drawable:monster_nobile",
+    "remoteReference": "media:monster_nobile",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_nobile.webp",
+    "stagedPath": "assets/monsters/portraits/monster_nobile.28bf0a588724.webp"
+  },
+  {
+    "assetId": "monster_ogre",
+    "legacyReference": "drawable:monster_ogre",
+    "remoteReference": "media:monster_ogre",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_ogre.webp",
+    "stagedPath": "assets/monsters/portraits/monster_ogre.254b575ee88a.webp"
+  },
+  {
+    "assetId": "monster_oni",
+    "legacyReference": "drawable:monster_oni",
+    "remoteReference": "media:monster_oni",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_oni.webp",
+    "stagedPath": "assets/monsters/portraits/monster_oni.c12cc2ea0ef2.webp"
+  },
+  {
+    "assetId": "monster_orrore_corazzato",
+    "legacyReference": "drawable:monster_orrore_corazzato",
+    "remoteReference": "media:monster_orrore_corazzato",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_orrore_corazzato.webp",
+    "stagedPath": "assets/monsters/portraits/monster_orrore_corazzato.56eedba01dd0.webp"
+  },
+  {
+    "assetId": "monster_otyugh",
+    "legacyReference": "drawable:monster_otyugh",
+    "remoteReference": "media:monster_otyugh",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_otyugh.webp",
+    "stagedPath": "assets/monsters/portraits/monster_otyugh.baa16b6240fb.webp"
+  },
+  {
+    "assetId": "monster_peryton",
+    "legacyReference": "drawable:monster_peryton",
+    "remoteReference": "media:monster_peryton",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_peryton.webp",
+    "stagedPath": "assets/monsters/portraits/monster_peryton.4e7e8084a595.webp"
+  },
+  {
+    "assetId": "monster_pharblex_spattergoo",
+    "legacyReference": "drawable:monster_pharblex_spattergoo",
+    "remoteReference": "media:monster_pharblex_spattergoo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_pharblex_spattergoo.webp",
+    "stagedPath": "assets/monsters/portraits/monster_pharblex_spattergoo.31eedcc77f6a.webp"
+  },
+  {
+    "assetId": "monster_popolano",
+    "legacyReference": "drawable:monster_popolano",
+    "remoteReference": "media:monster_popolano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_popolano.webp",
+    "stagedPath": "assets/monsters/portraits/monster_popolano.7b2916ca4f60.webp"
+  },
+  {
+    "assetId": "monster_ragno_fase",
+    "legacyReference": "drawable:monster_ragno_fase",
+    "remoteReference": "media:monster_ragno_fase",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_ragno_fase.webp",
+    "stagedPath": "assets/monsters/portraits/monster_ragno_fase.a5241e66b409.webp"
+  },
+  {
+    "assetId": "monster_ragno_gigante",
+    "legacyReference": "drawable:monster_ragno_gigante",
+    "remoteReference": "media:monster_ragno_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_ragno_gigante.webp",
+    "stagedPath": "assets/monsters/portraits/monster_ragno_gigante.b97739f55356.webp"
+  },
+  {
+    "assetId": "monster_rana_gigante",
+    "legacyReference": "drawable:monster_rana_gigante",
+    "remoteReference": "media:monster_rana_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_rana_gigante.webp",
+    "stagedPath": "assets/monsters/portraits/monster_rana_gigante.8a588d0cfd58.webp"
+  },
+  {
+    "assetId": "monster_rath_modar",
+    "legacyReference": "drawable:monster_rath_modar",
+    "remoteReference": "media:monster_rath_modar",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_rath_modar.webp",
+    "stagedPath": "assets/monsters/portraits/monster_rath_modar.e7afc1addda4.webp"
+  },
+  {
+    "assetId": "monster_rezmir",
+    "legacyReference": "drawable:monster_rezmir",
+    "remoteReference": "media:monster_rezmir",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_rezmir.webp",
+    "stagedPath": "assets/monsters/portraits/monster_rezmir.d90bdba29051.webp"
+  },
+  {
+    "assetId": "monster_roderic_thann",
+    "legacyReference": "drawable:monster_roderic_thann",
+    "remoteReference": "media:monster_roderic_thann",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_roderic_thann.webp",
+    "stagedPath": "assets/monsters/portraits/monster_roderic_thann.41747a7e88bc.webp"
+  },
+  {
+    "assetId": "monster_rospo_gigante",
+    "legacyReference": "drawable:monster_rospo_gigante",
+    "remoteReference": "media:monster_rospo_gigante",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_rospo_gigante.webp",
+    "stagedPath": "assets/monsters/portraits/monster_rospo_gigante.7bc17a152de5.webp"
+  },
+  {
+    "assetId": "monster_sciame_di_millepiedi",
+    "legacyReference": "drawable:monster_sciame_di_millepiedi",
+    "remoteReference": "media:monster_sciame_di_millepiedi",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_sciame_di_millepiedi.webp",
+    "stagedPath": "assets/monsters/portraits/monster_sciame_di_millepiedi.51efd7a7a1c6.webp"
+  },
+  {
+    "assetId": "monster_siren_ilvastarr",
+    "legacyReference": "drawable:monster_siren_ilvastarr",
+    "remoteReference": "media:monster_siren_ilvastarr",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_siren_ilvastarr.webp",
+    "stagedPath": "assets/monsters/portraits/monster_siren_ilvastarr.7ff13f8b1fe8.webp"
+  },
+  {
+    "assetId": "monster_spettro",
+    "legacyReference": "drawable:monster_spettro",
+    "remoteReference": "media:monster_spettro",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_spettro.webp",
+    "stagedPath": "assets/monsters/portraits/monster_spettro.4a9d2d81954a.webp"
+  },
+  {
+    "assetId": "monster_talis_la_bianca",
+    "legacyReference": "drawable:monster_talis_la_bianca",
+    "remoteReference": "media:monster_talis_la_bianca",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_talis_la_bianca.webp",
+    "stagedPath": "assets/monsters/portraits/monster_talis_la_bianca.6e85648c9024.webp"
+  },
+  {
+    "assetId": "monster_troglodita",
+    "legacyReference": "drawable:monster_troglodita",
+    "remoteReference": "media:monster_troglodita",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_troglodita.webp",
+    "stagedPath": "assets/monsters/portraits/monster_troglodita.9827aeaf9c6d.webp"
+  },
+  {
+    "assetId": "monster_troll",
+    "legacyReference": "drawable:monster_troll",
+    "remoteReference": "media:monster_troll",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_troll.webp",
+    "stagedPath": "assets/monsters/portraits/monster_troll.fe452bdcf11e.webp"
+  },
+  {
+    "assetId": "monster_uccello_stigeo",
+    "legacyReference": "drawable:monster_uccello_stigeo",
+    "remoteReference": "media:monster_uccello_stigeo",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_uccello_stigeo.webp",
+    "stagedPath": "assets/monsters/portraits/monster_uccello_stigeo.e38ac1f9189f.webp"
+  },
+  {
+    "assetId": "monster_vermeiena",
+    "legacyReference": "drawable:monster_vermeiena",
+    "remoteReference": "media:monster_vermeiena",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_vermeiena.webp",
+    "stagedPath": "assets/monsters/portraits/monster_vermeiena.ea7d3a6698e6.webp"
+  },
+  {
+    "assetId": "monster_veterano",
+    "legacyReference": "drawable:monster_veterano",
+    "remoteReference": "media:monster_veterano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_veterano.webp",
+    "stagedPath": "assets/monsters/portraits/monster_veterano.e4daddb7f602.webp"
+  },
+  {
+    "assetId": "monster_veyra_amcathra",
+    "legacyReference": "drawable:monster_veyra_amcathra",
+    "remoteReference": "media:monster_veyra_amcathra",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_veyra_amcathra.webp",
+    "stagedPath": "assets/monsters/portraits/monster_veyra_amcathra.3d870459e601.webp"
+  },
+  {
+    "assetId": "monster_viverna",
+    "legacyReference": "drawable:monster_viverna",
+    "remoteReference": "media:monster_viverna",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_viverna.webp",
+    "stagedPath": "assets/monsters/portraits/monster_viverna.81392a2549d1.webp"
+  },
+  {
+    "assetId": "monster_yuan_ti_nefasto",
+    "legacyReference": "drawable:monster_yuan_ti_nefasto",
+    "remoteReference": "media:monster_yuan_ti_nefasto",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_yuan_ti_nefasto.webp",
+    "stagedPath": "assets/monsters/portraits/monster_yuan_ti_nefasto.cb0c9262f7ac.webp"
+  },
+  {
+    "assetId": "monster_yuan_ti_sanguepuro",
+    "legacyReference": "drawable:monster_yuan_ti_sanguepuro",
+    "remoteReference": "media:monster_yuan_ti_sanguepuro",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_yuan_ti_sanguepuro.webp",
+    "stagedPath": "assets/monsters/portraits/monster_yuan_ti_sanguepuro.3da78310b9c6.webp"
+  },
+  {
+    "assetId": "portrait_asdrubale_losurdus",
+    "legacyReference": "drawable:portrait_asdrubale_losurdus",
+    "remoteReference": "media:portrait_asdrubale_losurdus",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_asdrubale_losurdus.webp",
+    "stagedPath": "assets/players/portrait_asdrubale_losurdus.a6ceb99b4569.webp"
+  },
+  {
+    "assetId": "portrait_igris_eenees",
+    "legacyReference": "drawable:portrait_igris_eenees",
+    "remoteReference": "media:portrait_igris_eenees",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_igris_eenees.webp",
+    "stagedPath": "assets/players/portrait_igris_eenees.e13ddf85ddc8.webp"
+  },
+  {
+    "assetId": "portrait_kart_olin",
+    "legacyReference": "drawable:portrait_kart_olin",
+    "remoteReference": "media:portrait_kart_olin",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_kart_olin.webp",
+    "stagedPath": "assets/players/portrait_kart_olin.15dc9b27abd1.webp"
+  },
+  {
+    "assetId": "portrait_monster_gladiatore",
+    "legacyReference": "drawable:portrait_monster_gladiatore",
+    "remoteReference": "media:portrait_monster_gladiatore",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_monster_gladiatore.webp",
+    "stagedPath": "assets/monsters/portraits/portrait_monster_gladiatore.bb066399a4ba.webp"
+  },
+  {
+    "assetId": "portrait_monster_hobgoblin_signore_della_guerra",
+    "legacyReference": "drawable:portrait_monster_hobgoblin_signore_della_guerra",
+    "remoteReference": "media:portrait_monster_hobgoblin_signore_della_guerra",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_monster_hobgoblin_signore_della_guerra.webp",
+    "stagedPath": "assets/monsters/portraits/portrait_monster_hobgoblin_signore_della_guerra.4b421487c1c5.webp"
+  },
+  {
+    "assetId": "portrait_monster_manticora",
+    "legacyReference": "drawable:portrait_monster_manticora",
+    "remoteReference": "media:portrait_monster_manticora",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_monster_manticora.webp",
+    "stagedPath": "assets/monsters/portraits/portrait_monster_manticora.3b3be28853b1.webp"
+  },
+  {
+    "assetId": "portrait_monster_oni",
+    "legacyReference": "drawable:portrait_monster_oni",
+    "remoteReference": "media:portrait_monster_oni",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_monster_oni.webp",
+    "stagedPath": "assets/monsters/portraits/portrait_monster_oni.a2d592371083.webp"
+  },
+  {
+    "assetId": "portrait_monster_ragno_fase",
+    "legacyReference": "drawable:portrait_monster_ragno_fase",
+    "remoteReference": "media:portrait_monster_ragno_fase",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_monster_ragno_fase.webp",
+    "stagedPath": "assets/monsters/portraits/portrait_monster_ragno_fase.8dc305db8ec8.webp"
+  },
+  {
+    "assetId": "portrait_monster_veterano",
+    "legacyReference": "drawable:portrait_monster_veterano",
+    "remoteReference": "media:portrait_monster_veterano",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_monster_veterano.webp",
+    "stagedPath": "assets/monsters/portraits/portrait_monster_veterano.aee8ad3252ba.webp"
+  },
+  {
+    "assetId": "portrait_umbrean_kona",
+    "legacyReference": "drawable:portrait_umbrean_kona",
+    "remoteReference": "media:portrait_umbrean_kona",
+    "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\portrait_umbrean_kona.webp",
+    "stagedPath": "assets/players/portrait_umbrean_kona.095da5e8d952.webp"
+  }
+]
