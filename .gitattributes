@@ -1,0 +1,7 @@
+manifest-v1.json -text
+migration-report.json -text
+*.webp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mp4 binary
