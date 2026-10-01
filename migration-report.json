@@ -805,6 +805,13 @@
     "stagedPath": "assets/monsters/full-body/img_enemy_viverna.ffbee84e71b4.webp"
   },
   {
+    "assetId": "img_enemy_voaraghamanthar",
+    "legacyReference": "drawable:img_enemy_voaraghamanthar",
+    "remoteReference": "media:img_enemy_voaraghamanthar",
+    "sourcePath": "external\\chapter6\\Voaraghamanthar full body.png",
+    "stagedPath": "assets/monsters/full-body/img_enemy_voaraghamanthar.52d46197127f.webp"
+  },
+  {
     "assetId": "img_enemy_winged_kobold",
     "legacyReference": "drawable:img_enemy_winged_kobold",
     "remoteReference": "media:img_enemy_winged_kobold",
@@ -1818,6 +1825,13 @@
     "remoteReference": "media:monster_viverna",
     "sourcePath": "app\\src\\main\\res\\drawable-nodpi\\monster_viverna.webp",
     "stagedPath": "assets/monsters/portraits/monster_viverna.81392a2549d1.webp"
+  },
+  {
+    "assetId": "monster_voaraghamanthar",
+    "legacyReference": "drawable:monster_voaraghamanthar",
+    "remoteReference": "media:monster_voaraghamanthar",
+    "sourcePath": "external\\chapter6\\Voaraghamanthar_primo piano.png",
+    "stagedPath": "assets/monsters/portraits/monster_voaraghamanthar.e7173ae0bf16.webp"
   },
   {
     "assetId": "monster_yuan_ti_nefasto",

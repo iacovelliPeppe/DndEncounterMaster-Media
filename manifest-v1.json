@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026.09.18.1",
+  "revision": "2026.10.01.1",
   "baseUrl": "https://iacovellipeppe.github.io/DndEncounterMaster-Media/",
   "assets": [
     {
@@ -1035,6 +1035,15 @@
       "mimeType": "image/webp",
       "width": 941,
       "height": 1672
+    },
+    {
+      "id": "img_enemy_voaraghamanthar",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_voaraghamanthar.52d46197127f.webp",
+      "sha256": "52d46197127ffdaf004d0ec9e047d079cb2c078938fa2ca4f1b289bb72b6cef7",
+      "byteSize": 250464,
+      "mimeType": "image/webp",
+      "width": 1024,
+      "height": 1365
     },
     {
       "id": "img_enemy_winged_kobold",
@@ -2337,6 +2346,15 @@
       "relativeUrl": "assets/monsters/portraits/monster_viverna.81392a2549d1.webp",
       "sha256": "81392a2549d19ae075c0a38a7749b5686f8fc848d1c639b3089e8ac62c451d05",
       "byteSize": 38068,
+      "mimeType": "image/webp",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "monster_voaraghamanthar",
+      "relativeUrl": "assets/monsters/portraits/monster_voaraghamanthar.e7173ae0bf16.webp",
+      "sha256": "e7173ae0bf16146e8c699702336cc61855fa0e57745f006749183a6e7402dc4c",
+      "byteSize": 130172,
       "mimeType": "image/webp",
       "width": 768,
       "height": 768
