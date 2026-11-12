@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026.10.01.1",
+  "revision": "2026.11.12.1",
   "baseUrl": "https://iacovellipeppe.github.io/DndEncounterMaster-Media/",
   "assets": [
     {
@@ -873,6 +873,15 @@
       "mimeType": "image/webp",
       "width": 941,
       "height": 1672
+    },
+    {
+      "id": "img_enemy_rapdor",
+      "relativeUrl": "assets/monsters/full-body/img_enemy_rapdor.d600ce66f652.png",
+      "sha256": "d600ce66f65261645f1eed4182934df09554b6ce9430268946009c904343f5bb",
+      "byteSize": 2485596,
+      "mimeType": "image/png",
+      "width": 948,
+      "height": 1659
     },
     {
       "id": "img_enemy_rath_modar",
@@ -2214,6 +2223,15 @@
       "mimeType": "image/webp",
       "width": 768,
       "height": 768
+    },
+    {
+      "id": "monster_rapdor",
+      "relativeUrl": "assets/monsters/portraits/monster_rapdor.016845810b01.png",
+      "sha256": "016845810b01d2e0f948901d1e86f82ac858f66a2ada1d445ae8382365b82140",
+      "byteSize": 2001119,
+      "mimeType": "image/png",
+      "width": 1122,
+      "height": 1122
     },
     {
       "id": "monster_rath_modar",
